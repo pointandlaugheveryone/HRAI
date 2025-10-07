@@ -2,3 +2,10 @@
 *.zip
 *.conll
 *.jsonl
+*.txt
+
+*/__pycache__
+*.txt
+
+*/cvnlp
+*env
