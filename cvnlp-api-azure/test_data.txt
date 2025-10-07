@@ -1,0 +1,27 @@
+"Matěj Strnadmatej@mstrnad.cz | +420 605 757 420
+Knowledge/Experience
+• More than 8 years of programming experience, including 1 year and 4 months in companies.
+• Experience primarily with PHP, Python, and Go. I also have some experience with C++ and C, although mostly in smaller
+personal projects.
+• My database experience is primarily with MariaDB/MySQL, PostgreSQL, and Redis.
+• Knowledge of Git, Linux, and English at approximately B2 to C1 level (but I do not have a certificate) is a given.
+Experience
+
+
+CDN77 - Medior/Senior Software Developer
+• August to October 2024 - I was forced to leave for health reasons - I couldn't cope with a new chronic
+illness (which is now stable and does not significantly affect me) and school, including my final exams.
+• I was responsible for the design and implementation of a server health monitoring service.
+Approximately 3,
+    000 lines of code in Go.
+• If I had not left, the plan was to set up a team within a few months, which I would lead and which
+would be responsible for the development of services that cannot be assigned to any large product team.
+Sportisimo - PHP Software Developer
+• January 2021 to December 2022
+• Here I worked on relatively large internal systems in PHP (hundreds of thousands/millions of LOC), MySQL, and Redis.
+I worked in a team of approximately 20 developers.
+Atypical experience
+Atypical experience for non-profit organizations, which I do not count towards the time spent in the companies mentioned
+above.
+Semilská sportovní z. s.
+• For several years, I have been developing an information system and website for the Gigatour darts tournament series, which is organized"
