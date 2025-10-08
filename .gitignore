@@ -1,11 +1,9 @@
-# datasets
-*.zip
-*.conll
-*.jsonl
-*.txt
+*.env*
+*env/
+*pyvenv.cfg*
+*__pycache__*
+*.idea/
+*.spacy 	# binary files
+*.txt		# dataset & test files
 
-*/__pycache__
-*.txt
-
-*/cvnlp
-*env
+TODO.md 	
