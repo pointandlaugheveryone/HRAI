@@ -1,0 +1,620 @@
+ESCOURI,ID,UUIDHISTORY,PREFERREDLABEL,CODE
+http://data.europa.eu/esco/isco/C0,key_1,3e4c87b5-79be-464a-8e92-43be97549da3,Zaměstnanci v ozbrojených silách,0
+http://data.europa.eu/esco/isco/C01,key_2,121412a5-1e3f-4513-9240-6d64be0986a9,Generálové a důstojníci v ozbrojených silách,1
+http://data.europa.eu/esco/isco/C011,key_3,66e21e40-d90e-476f-8c4b-054deb2639f1,Generálové a důstojníci v ozbrojených silách,11
+http://data.europa.eu/esco/isco/C0110,key_4,361b637c-8c66-483d-b035-3018b187b7e9,Generálové a důstojníci v ozbrojených silách,110
+http://data.europa.eu/esco/isco/C02,key_5,85c32c7b-b737-4ba2-a452-6f808ee2527f,Poddůstojníci v ozbrojených silách,2
+http://data.europa.eu/esco/isco/C021,key_6,6eff6fb8-b77d-4754-a566-5c3a2ac455da,Poddůstojníci v ozbrojených silách,21
+http://data.europa.eu/esco/isco/C0210,key_7,14d77f15-3057-4816-8e9f-0c518d25fdb8,Poddůstojníci v ozbrojených silách,210
+http://data.europa.eu/esco/isco/C03,key_8,1267c7d8-a3d8-4b68-be06-9bc9a228f2a8,"Zaměstnanci v ozbrojených silách, další hodnosti",3
+http://data.europa.eu/esco/isco/C031,key_9,2c8f2698-2872-4cd5-ad54-621c35c1e210,"Zaměstnanci v ozbrojených silách, další hodnosti",31
+http://data.europa.eu/esco/isco/C0310,key_10,a908b283-b2da-45e9-a78d-3b5993349326,"Zaměstnanci v ozbrojených silách, další hodnosti",310
+http://data.europa.eu/esco/isco/C1,key_11,0141c0c3-50db-4546-9f9c-c6dfe50f05c0,"Zákonodárci, vedoucí a řídící pracovníci",1
+http://data.europa.eu/esco/isco/C11,key_12,8accd60f-377b-4019-9f5a-1f3e75a570ce,"Zákonodárci, vysocí státní úředníci a nejvyšší představitelé společností",11
+http://data.europa.eu/esco/isco/C111,key_13,57325f3b-355d-4fd1-bfe6-0efe817ec6b5,Zákonodárci a vysocí státní úředníci,111
+http://data.europa.eu/esco/isco/C1111,key_14,7a60be05-00b1-4abc-b75f-964c5b78a8c9,Představitelé zákonodárné a výkonné moci,1111
+http://data.europa.eu/esco/isco/C1112,key_15,df895d5b-f636-474b-a3bc-13af27b7bbf6,Vysocí státní úředníci,1112
+http://data.europa.eu/esco/isco/C1113,key_16,1301da58-0771-477b-a715-e510563babc4,Představitelé samosprávy,1113
+http://data.europa.eu/esco/isco/C1114,key_17,91725407-7d67-48b3-b2ff-8519b62cb43d,"Vedoucí pracovníci politických, zájmových a příbuzných organizací",1114
+http://data.europa.eu/esco/isco/C112,key_18,52f7df00-7ebb-407e-9d2c-ab8fb100f68b,Nejvyšší představitelé společností a generální ředitelé,112
+http://data.europa.eu/esco/isco/C1120,key_19,305427ea-3008-49b5-8fc4-53e7850367e2,Nejvyšší představitelé společností a generální ředitelé,1120
+http://data.europa.eu/esco/isco/C12,key_20,64494527-16ad-46ff-8f27-4cd3d026a8f7,Vedoucí a řídící pracovníci ve veřejné správě a v komerční sféře,12
+http://data.europa.eu/esco/isco/C121,key_21,95730325-3673-4025-a1f0-25ebb666d449,Vedoucí a řídící pracovníci univerzálních dílčích celků,121
+http://data.europa.eu/esco/isco/C1211,key_22,f53e109e-34fa-416d-8ede-1e907f465a66,Vedoucí a řídící pracovníci v oblasti financí,1211
+http://data.europa.eu/esco/isco/C1212,key_23,08b7bcf7-2997-4cd1-a1d9-ba826d764084,Vedoucí a řídící pracovníci v oblasti lidských zdrojů,1212
+http://data.europa.eu/esco/isco/C1213,key_24,77e888b4-b6f2-49b2-85ef-2ac1f8a6d04a,Vedoucí pracovníci v oblasti politiky firmy a strategického plánování,1213
+http://data.europa.eu/esco/isco/C1219,key_25,c9c1e138-0d96-419f-9fd9-7531e918fd4b,Vedoucí a řídící pracovníci univerzálních dílčích celků jinde neuvedení,1219
+http://data.europa.eu/esco/isco/C122,key_26,43ab64b7-a5b3-4880-b815-6cd1a5bbc942,"Vedoucí a řídící pracovníci v oblasti prodeje, marketingu, výzkumu, vývoje, reklamy a styku s veřejností",122
+http://data.europa.eu/esco/isco/C1221,key_27,c85859a3-0276-4ff4-a69a-cff02b080ce0,Vedoucí a řídící pracovníci v oblasti prodeje a marketingu,1221
+http://data.europa.eu/esco/isco/C1222,key_28,29395239-a92e-48f4-8ca5-b2084fd5cdc8,Vedoucí a řídící pracovníci v oblasti reklamy a styku s veřejností,1222
+http://data.europa.eu/esco/isco/C1223,key_29,9718d922-afcd-407b-9b7d-218d24419f44,Vedoucí a řídící pracovníci v oblasti výzkumu a vývoje,1223
+http://data.europa.eu/esco/isco/C13,key_30,ec8aed3b-b046-4ee5-9968-b5604015c2a4,"Vedoucí a řídící pracovníci v oblasti výroby, informačních technologií, vzdělávání a v příbuzných oborech",13
+http://data.europa.eu/esco/isco/C131,key_31,d742b6ff-fb32-4fc6-8ed8-ee64d3917f2b,"Vedoucí a řídící pracovníci v zemědělství, lesnictví a rybářství",131
+http://data.europa.eu/esco/isco/C1311,key_32,b9bbdeab-e888-49b3-8dfb-d574ee6ae30e,Vedoucí a řídící pracovníci v zemědělství a lesnictví,1311
+http://data.europa.eu/esco/isco/C1312,key_33,c97603b6-9588-46a3-b68e-1ed4ec7d00ce,Vedoucí a řídící pracovníci v rybářství a akvakultuře,1312
+http://data.europa.eu/esco/isco/C132,key_34,c4aa4bfe-240f-4fdc-b399-14518de4b89b,"Vedoucí a řídící pracovníci v průmyslové výrobě, těžbě, stavebnictví, dopravě a příbuzných oborech",132
+http://data.europa.eu/esco/isco/C1321,key_35,a971e2d9-0873-46a3-bcd0-1abf486932a6,Vedoucí a řídící pracovníci v průmyslové výrobě,1321
+http://data.europa.eu/esco/isco/C1322,key_36,4abfa585-91db-454e-9d8f-ed0bcbff6196,Vedoucí a řídící pracovníci v těžbě,1322
+http://data.europa.eu/esco/isco/C1323,key_37,8979b282-f543-4176-aa6f-2a1be8be4da3,Vedoucí a řídící pracovníci ve stavebnictví,1323
+http://data.europa.eu/esco/isco/C1324,key_38,69ed905f-87c0-4723-9a3d-312332c05f8e,"Vedoucí a řídící pracovníci v dopravě, logistice a příbuzných oborech",1324
+http://data.europa.eu/esco/isco/C133,key_39,95d6b9cf-58ef-44af-bdba-e42aae74800b,Vedoucí a řídící pracovníci v oblasti informačních a komunikačních technologií,133
+http://data.europa.eu/esco/isco/C1330,key_40,ac4b3d54-8163-4129-a1ed-cd5ae3c306f9,Vedoucí a řídící pracovníci v oblasti informačních a komunikačních technologií,1330
+http://data.europa.eu/esco/isco/C134,key_41,ed427523-23bf-4466-9826-49f21187e7b1,"Vedoucí a řídící pracovníci v oblasti vzdělávání, zdravotnictví, v sociálních a příbuzných oblastech",134
+http://data.europa.eu/esco/isco/C1341,key_42,2e5ee942-c5ab-4e46-94f3-4e37256e690e,Vedoucí a řídící pracovníci v oblasti péče o děti,1341
+http://data.europa.eu/esco/isco/C1342,key_43,6c92eed5-bb19-45b2-b8b8-fe73df4c0d29,Vedoucí a řídící pracovníci v oblasti zdravotnictví,1342
+http://data.europa.eu/esco/isco/C1343,key_44,73a0f56a-c6ce-43f4-8c81-8a98555ffcab,Vedoucí a řídící pracovníci v oblasti péče o seniory,1343
+http://data.europa.eu/esco/isco/C1344,key_45,be36c9ac-f764-4dbf-976b-f2df8cfe61f8,Vedoucí a řídící pracovníci v sociální oblasti (kromě péče o děti a seniory),1344
+http://data.europa.eu/esco/isco/C1345,key_46,7007ebbb-7fda-4e8d-b3f8-9e4d23cc1186,Vedoucí a řídící pracovníci v oblasti vzdělávání,1345
+http://data.europa.eu/esco/isco/C1346,key_47,92ca0cc3-431a-4e08-bd0c-8d5645e6d0f1,Vedoucí a řídící pracovníci v oblasti finančních a pojišťovacích služeb,1346
+http://data.europa.eu/esco/isco/C1349,key_48,bdd407b3-9c28-4a63-a5ca-98bcea686fbf,"Vedoucí a řídící pracovníci knihoven, muzeí, bezpečnosti a v příbuzných oblastech jinde neuvedení",1349
+http://data.europa.eu/esco/isco/C14,key_49,31b39de4-006f-4825-9b0c-ccd48e2e592a,"Vedoucí a řídící pracovníci v oblasti ubytovacích a stravovacích služeb, prodeje a ostatní vedoucí a řídící pracovníci",14
+http://data.europa.eu/esco/isco/C141,key_50,f5fefbed-4bcd-4b2e-b9bc-8915a090f528,Vedoucí a řídící pracovníci v oblasti ubytovacích a stravovacích služeb,141
+http://data.europa.eu/esco/isco/C1411,key_51,a054ebac-e45b-4a32-824c-13b1049d9f28,Vedoucí a řídící pracovníci v oblasti ubytovacích služeb,1411
+http://data.europa.eu/esco/isco/C1412,key_52,4f48b934-a464-47b5-add1-784a12393256,Vedoucí a řídící pracovníci v oblasti stravovacích služeb,1412
+http://data.europa.eu/esco/isco/C142,key_53,e2171d3f-e8bc-41f9-a14f-f1002abe1b83,Vedoucí a řídící pracovníci v maloobchodě a velkoobchodě,142
+http://data.europa.eu/esco/isco/C1420,key_54,9106f268-1ab7-4c31-9037-931611efbe53,Vedoucí a řídící pracovníci v maloobchodě a velkoobchodě,1420
+http://data.europa.eu/esco/isco/C143,key_55,6946b4a3-fe71-4b8f-8d8e-ca366c936007,Ostatní vedoucí a řídící pracovníci,143
+http://data.europa.eu/esco/isco/C1431,key_56,9c174189-490f-41e3-b789-31dbd4d8b337,"Vedoucí a řídící pracovníci ve sportovních, zábavních a příbuzných zařízeních",1431
+http://data.europa.eu/esco/isco/C1439,key_57,0a97ef51-2c5f-4cac-8a42-a6d210b22b7c,Vedoucí a řídící pracovníci jinde neuvedení,1439
+http://data.europa.eu/esco/isco/C2,key_58,fabdb815-42db-4118-83ac-00b6bc76af0d,Specialisté,2
+http://data.europa.eu/esco/isco/C21,key_59,30e494dd-87f3-46d3-a88b-3ee237ca47d2,Specialisté v oblasti vědy a techniky,21
+http://data.europa.eu/esco/isco/C211,key_60,48fda897-22bc-4508-8b1a-84dc3f1e848e,"Specialisté v oblasti fyziky, chemie a v příbuzných oborech",211
+http://data.europa.eu/esco/isco/C2111,key_61,03bf814c-67ee-4359-95cf-a8e437216c4d,Fyzikové a astronomové,2111
+http://data.europa.eu/esco/isco/C2112,key_62,9cd78ebc-7167-47aa-8710-e71ce0d41276,Meteorologové,2112
+http://data.europa.eu/esco/isco/C2113,key_63,0b33d583-b515-403f-8148-8f6bf53868de,Chemici (kromě chemického inženýrství),2113
+http://data.europa.eu/esco/isco/C2114,key_64,6d539711-f855-407c-8cc3-6788ca7fb72c,Geologové a geofyzici,2114
+http://data.europa.eu/esco/isco/C212,key_65,2aa3ee8c-2455-41b5-b03b-301ee8c9976e,"Specialisté v oblasti matematiky, statistiky a pojistné matematiky",212
+http://data.europa.eu/esco/isco/C2120,key_66,8b3c23da-65d2-47dc-89f6-83bfcf1403b9,"Specialisté v oblasti matematiky, statistiky a pojistné matematiky",2120
+http://data.europa.eu/esco/isco/C213,key_67,4e762293-1a95-47c4-9a93-e83f4dfeaa26,Specialisté v biologických a příbuzných oborech,213
+http://data.europa.eu/esco/isco/C2131,key_68,e6a99cb2-c566-4fa3-945d-37b43633a96b,"Biologové, botanici, zoologové a specialisté v příbuzných oborech",2131
+http://data.europa.eu/esco/isco/C2132,key_69,78d36ca0-b41a-46e1-b479-4e00f322fd17,"Specialisté v oblasti zemědělství, lesnictví a rybářství",2132
+http://data.europa.eu/esco/isco/C2133,key_70,e03c3570-fb1d-48ab-903a-d21306dca054,Specialisté v oblasti ochrany životního prostředí (kromě průmyslové ekologie),2133
+http://data.europa.eu/esco/isco/C214,key_71,e72f19e9-7447-434d-9646-952de8230b6d,"Specialisté ve výrobě, stavebnictví a příbuzných oborech (kromě elektrotechniky)",214
+http://data.europa.eu/esco/isco/C2141,key_72,4d075c1b-5ef5-4673-8a34-f6aef9c6018a,Inženýři v průmyslu a ve výrobě,2141
+http://data.europa.eu/esco/isco/C2142,key_73,bbfef837-bec8-4e1a-9252-cae3cd1dfc59,Stavební inženýři,2142
+http://data.europa.eu/esco/isco/C2143,key_74,a2d10c5a-20f7-4e0c-8a1a-8c874575b5bd,Specialisté v oblasti průmyslové ekologie,2143
+http://data.europa.eu/esco/isco/C2144,key_75,04c82c92-c462-4d6f-8dcc-b98534e5bd15,Strojní inženýři,2144
+http://data.europa.eu/esco/isco/C2145,key_76,af5992ef-825e-4eab-8382-454d0b1fba91,Chemičtí inženýři a specialisté v příbuzných oborech,2145
+http://data.europa.eu/esco/isco/C2146,key_77,228876d0-6d8b-487f-8a8c-0999906b06af,Důlní a hutní inženýři a specialisté v příbuzných oborech,2146
+http://data.europa.eu/esco/isco/C2149,key_78,6c834e02-1065-4d40-86fb-769c5490ec5c,Specialisté v oblasti techniky (kromě elektrotechniky) jinde neuvedení,2149
+http://data.europa.eu/esco/isco/C215,key_79,85d61714-b1f8-49f9-8b66-9b4acfbfa77f,"Specialisté v oblasti elektrotechniky, elektroniky a elektronických komunikací",215
+http://data.europa.eu/esco/isco/C2151,key_80,7be8a2a9-deeb-4ade-a610-8963e0cbbe90,Inženýři elektrotechnici a energetici,2151
+http://data.europa.eu/esco/isco/C2152,key_81,9aca71f9-6090-4fa7-8ce8-a430bc2001c5,Inženýři elektronici,2152
+http://data.europa.eu/esco/isco/C2153,key_82,cc25e2b6-73c5-4228-ad6f-59dc5f647902,Inženýři v oblasti elektronických komunikací,2153
+http://data.europa.eu/esco/isco/C216,key_83,b6b5d80d-2f26-40c7-822a-25e83d05ab1a,"Architekti, specialisté v oblasti územního plánování, návrháři a příbuzní pracovníci",216
+http://data.europa.eu/esco/isco/C2161,key_84,8b1ffa93-52b6-4654-accb-a5df9294d6aa,Stavební architekti,2161
+http://data.europa.eu/esco/isco/C2162,key_85,afdf282f-4f69-4b9f-8b17-a1742dc49cf8,Zahradní a krajinní architekti,2162
+http://data.europa.eu/esco/isco/C2163,key_86,47d00149-7c8d-4475-8857-5fcaf4543243,Návrháři výrobků a produktů,2163
+http://data.europa.eu/esco/isco/C2164,key_87,8752910f-5e41-4b23-ab93-86b835d1b606,Specialisté v oblasti územního a dopravního plánování,2164
+http://data.europa.eu/esco/isco/C2165,key_88,b528ebe9-8c0f-46b0-8963-630949d9d2de,Kartografové a zeměměřiči,2165
+http://data.europa.eu/esco/isco/C2166,key_89,9e09dc2c-6612-4c39-900d-26a3da3f7566,Grafici a výtvarníci v multimédiích,2166
+http://data.europa.eu/esco/isco/C22,key_90,6540b9ea-207d-4149-9831-00920fc5301e,Specialisté v oblasti zdravotnictví,22
+http://data.europa.eu/esco/isco/C221,key_91,96e2f277-6857-4f90-9d5e-b70450ad7bdc,"Lékaři (kromě stomatologů, dietologů a audiologů)",221
+http://data.europa.eu/esco/isco/C2211,key_92,1e804087-a21b-4d12-923a-fc3caaaff24d,Všeobecní a praktičtí lékaři,2211
+http://data.europa.eu/esco/isco/C2212,key_93,c574beb0-1145-42e8-bd99-c33a735437e8,"Lékaři s odbornou specializací (kromě praktických lékařů, stomatologů, dietologů a audiologů)",2212
+http://data.europa.eu/esco/isco/C222,key_94,e1a192e8-7294-4576-87f3-6bd6f5a02493,Specialisté v oblasti ošetřovatelství a porodnictví,222
+http://data.europa.eu/esco/isco/C2221,key_95,6e53e95c-34ac-45c2-8196-9d9fb65a1e44,Specialisté v oblasti ošetřovatelství,2221
+http://data.europa.eu/esco/isco/C2222,key_96,e341bf47-0a4f-4bf2-a6a2-26f1f604ba42,Specialisté v oblasti porodnictví,2222
+http://data.europa.eu/esco/isco/C223,key_97,5f79ec96-f3f9-4403-9b69-2df3b37596c9,Specialisté v oblasti tradiční a alternativní medicíny,223
+http://data.europa.eu/esco/isco/C2230,key_98,af4735ce-cd92-4616-abb3-4794afc64cb5,Specialisté v oblasti tradiční a alternativní medicíny,2230
+http://data.europa.eu/esco/isco/C224,key_99,e13e1d65-f239-4c7d-9348-0c5d9180ecaf,Nelékařští praktici,224
+http://data.europa.eu/esco/isco/C2240,key_100,c92077dc-5947-4695-b77c-8e4feeecca0a,Nelékařští praktici,2240
+http://data.europa.eu/esco/isco/C225,key_101,85318828-f3a8-4cf3-8107-eb8e98898e2b,Veterinární lékaři,225
+http://data.europa.eu/esco/isco/C2250,key_102,2a7d035a-9171-444f-bb6c-68de470c54aa,Veterinární lékaři,2250
+http://data.europa.eu/esco/isco/C226,key_103,811e99a7-a448-4c8e-8bd6-ee2294468464,Ostatní specialisté v oblasti zdravotnictví,226
+http://data.europa.eu/esco/isco/C2261,key_104,c4c2eed8-e0f7-47ac-97d4-70732dc014d0,Zubní lékaři,2261
+http://data.europa.eu/esco/isco/C2262,key_105,67b5eec4-bed3-438f-b470-c24fbc0de9e8,Farmaceuti,2262
+http://data.europa.eu/esco/isco/C2263,key_106,87b921a5-0df8-418a-b043-068ef1da7f35,Specialisté v oblasti ochrany veřejného zdraví,2263
+http://data.europa.eu/esco/isco/C2264,key_107,b7e8e6f8-20b8-45fb-a108-d2a1d9abbb17,Fyzioterapeuti,2264
+http://data.europa.eu/esco/isco/C2265,key_108,7dc2f45b-cfe1-419e-bd73-e57f7564b747,Specialisté v oblasti dietetiky a specialisté na výživu,2265
+http://data.europa.eu/esco/isco/C2266,key_109,3db3ea2b-ad4d-486c-8424-e235f16b22cf,Specialisté v oblasti audiologie a klinické logopedie,2266
+http://data.europa.eu/esco/isco/C2267,key_110,c2ab1038-8ee8-4276-83f8-694f97da5a0b,Specialisté v oblasti optiky a optometrie,2267
+http://data.europa.eu/esco/isco/C2269,key_111,b9fb24b9-9cb9-4a2d-ab4a-c9f43f54d4a3,Specialisté v oblasti zdravotnictví jinde neuvedení,2269
+http://data.europa.eu/esco/isco/C23,key_112,ddf5d5cb-8f38-4580-a236-6861c1d6be58,Specialisté v oblasti výchovy a vzdělávání,23
+http://data.europa.eu/esco/isco/C231,key_113,6f8e7af7-be20-4320-9875-577308c1c05a,Učitelé na vysokých a vyšších odborných školách,231
+http://data.europa.eu/esco/isco/C2310,key_114,7377be5a-5154-4a4b-ab45-c5e8875aa9f5,Učitelé na vysokých a vyšších odborných školách,2310
+http://data.europa.eu/esco/isco/C232,key_115,d3ce6cb9-01ed-407a-b989-7e2585680212,Lektoři dalšího vzdělávání,232
+http://data.europa.eu/esco/isco/C2320,key_116,f8126570-ac16-4f73-888a-6983ee4ceb78,Lektoři dalšího vzdělávání,2320
+http://data.europa.eu/esco/isco/C233,key_117,47faea10-08ef-4611-be4d-b25dd64608c5,Učitelé na středních školách,233
+http://data.europa.eu/esco/isco/C2330,key_118,9991f5ad-d884-4e4b-bb89-c26a44fcc0cd,Učitelé na středních školách,2330
+http://data.europa.eu/esco/isco/C234,key_119,e8887f02-8639-4b41-a6bd-9e811308a3bc,Učitelé na základních školách a v oblasti předškolní výchovy,234
+http://data.europa.eu/esco/isco/C2341,key_120,986ddb4c-d2ea-4ecd-85f3-de9fbeb09eff,Učitelé na základních školách,2341
+http://data.europa.eu/esco/isco/C2342,key_121,3fcfede6-1ec8-4de0-aa93-bcaa9345917a,Učitelé v oblasti předškolní výchovy,2342
+http://data.europa.eu/esco/isco/C235,key_122,9aea5b80-2fcc-4d49-9cac-5d3ea27d5c2f,Ostatní specialisté v oblasti výchovy a vzdělávání,235
+http://data.europa.eu/esco/isco/C2351,key_123,109398bd-436d-4989-9d3d-43b782002d24,Specialisté zaměření na metody výuky,2351
+http://data.europa.eu/esco/isco/C2352,key_124,c1e1fad3-cb58-4968-8155-2b5967622434,Učitelé a vychovatelé pro děti se speciálními vzdělávacími potřebami,2352
+http://data.europa.eu/esco/isco/C2353,key_125,c65af1fc-c78a-4f10-9d9d-124e9b9e0e78,Lektoři jazyků,2353
+http://data.europa.eu/esco/isco/C2354,key_126,d05e9f77-d1dd-4015-bcd2-492e1646a914,Lektoři hudby,2354
+http://data.europa.eu/esco/isco/C2355,key_127,af206492-3a4c-4765-9c38-c1230bf566ab,Lektoři umění,2355
+http://data.europa.eu/esco/isco/C2356,key_128,76c70d5b-6158-4b55-8465-80ea2058ba0b,Lektoři výuky informačních technologií,2356
+http://data.europa.eu/esco/isco/C2359,key_129,6f078bfc-8139-4234-947f-3e459339dcb0,Specialisté v oblasti výchovy a vzdělávání jinde neuvedení,2359
+http://data.europa.eu/esco/isco/C24,key_130,cbf389f9-4010-43b2-b3dd-4cc0f3303dd5,Specialisté v obchodní sféře a veřejné správě,24
+http://data.europa.eu/esco/isco/C241,key_131,248f3525-f0d0-49d7-961f-80912a1b00bc,Specialisté v oblasti financí,241
+http://data.europa.eu/esco/isco/C2411,key_132,d5a29486-2c6b-49d6-9dda-88f33f08e82e,Specialisté v oblasti účetnictví,2411
+http://data.europa.eu/esco/isco/C2412,key_133,e656a319-7bc1-4948-a9a0-bba2220d3ff7,Finanční a investiční poradci,2412
+http://data.europa.eu/esco/isco/C2413,key_134,bbf9b65e-e37d-4673-a9f1-6a8e28f4a154,Finanční analytici,2413
+http://data.europa.eu/esco/isco/C242,key_135,4272b312-dfda-47d5-90fa-31f4768e4785,Specialisté v oblasti strategie a personálního řízení,242
+http://data.europa.eu/esco/isco/C2421,key_136,142dc324-275c-404c-89e8-f352912cb36f,Specialisté v oblasti organizace a řízení práce,2421
+http://data.europa.eu/esco/isco/C2422,key_137,6a75bbfe-b9ba-4697-93a9-9eeafba6fcf0,Specialisté v oblasti strategie,2422
+http://data.europa.eu/esco/isco/C2423,key_138,a859404f-9098-4536-886e-06a20313290f,Specialisté v oblasti personální,2423
+http://data.europa.eu/esco/isco/C2424,key_139,4e515357-40e2-4af3-b8f5-eda013f9e3a7,Specialisté v oblasti vzdělávání a rozvoje lidských zdrojů,2424
+http://data.europa.eu/esco/isco/C243,key_140,1f9f5024-d82f-48c2-aa04-76c94ee89da7,"Specialisté v oblasti prodeje, marketingu a styku s veřejností",243
+http://data.europa.eu/esco/isco/C2431,key_141,891566a8-ca2c-4bc5-9190-7f5fb02647a5,Specialisté v oblasti reklamy a marketingu,2431
+http://data.europa.eu/esco/isco/C2432,key_142,40569d30-4232-408e-9d65-14f1736c223f,Specialisté v oblasti styku s veřejností,2432
+http://data.europa.eu/esco/isco/C2433,key_143,84351147-fec4-45fb-90fe-df2d57e4d3a0,Specialisté v oblasti prodeje technických a lékařských produktů (kromě informačních a komunikačních technologií),2433
+http://data.europa.eu/esco/isco/C2434,key_144,1b36acb5-0768-4108-9aa9-55729b1bec68,Specialisté v oblasti prodeje informačních a komunikačních technologií,2434
+http://data.europa.eu/esco/isco/C25,key_145,1f39c286-9ba8-4dfb-b13d-032975ba0ece,Specialisté v oblasti informačních a komunikačních technologií,25
+http://data.europa.eu/esco/isco/C251,key_146,f842ce3b-2d45-4a30-bab7-8f129d7d5178,Analytici a vývojáři softwaru a počítačových aplikací,251
+http://data.europa.eu/esco/isco/C2511,key_147,c181ffc5-0c21-45d1-a0e4-aed3f3e30fc6,Systémoví analytici,2511
+http://data.europa.eu/esco/isco/C2512,key_148,a21a1035-b0f2-4a6b-ac87-d97b42c85ca4,Vývojáři softwaru,2512
+http://data.europa.eu/esco/isco/C2513,key_149,2d221aa9-c8f2-49dc-9c33-3408fefa2b24,Vývojáři webu a multimédií,2513
+http://data.europa.eu/esco/isco/C2514,key_150,69e9f41c-c158-456a-9613-f8a0f8f7a789,Programátoři počítačových aplikací,2514
+http://data.europa.eu/esco/isco/C2519,key_151,8e8a9328-99f9-43bc-a9fc-360d4f1bbc6f,Analytici a vývojáři softwaru a počítačových aplikací jinde neuvedení,2519
+http://data.europa.eu/esco/isco/C252,key_152,9d94f417-0a02-4246-a59d-9499b2ed72de,Specialisté v oblasti databází a počítačových sítí,252
+http://data.europa.eu/esco/isco/C2521,key_153,c06ddd1d-4051-45fb-813e-f96cbfa14b2b,Návrháři a správci databází,2521
+http://data.europa.eu/esco/isco/C2522,key_154,af0b4dca-aff0-44ce-9577-ca61908abdff,Systémoví administrátoři (správci systémů),2522
+http://data.europa.eu/esco/isco/C2523,key_155,75af80be-521e-4310-b9fa-d748ea2a2f1b,Specialisté v oblasti počítačových sítí,2523
+http://data.europa.eu/esco/isco/C2529,key_156,7e621cba-22df-486b-aa10-5f0549bfd3b9,Specialisté v oblasti databází a počítačových sítí jinde neuvedení,2529
+http://data.europa.eu/esco/isco/C26,key_157,bef338c3-1a6e-4621-99f9-095b8609def5,"Specialisté v oblasti právní, sociální, kulturní a v příbuzných oborech",26
+http://data.europa.eu/esco/isco/C261,key_158,0d3614ba-12dc-4380-9733-a013901e8c76,Specialisté v právní oblasti a pracovníci v příbuzných oborech,261
+http://data.europa.eu/esco/isco/C2611,key_159,ee3a3600-3734-4405-92d6-fe761a3b01cd,"Právníci, státní zástupci a příbuzní pracovníci",2611
+http://data.europa.eu/esco/isco/C2612,key_160,f6186a99-01d5-4e67-bbe1-d9763d4c0ef8,Soudci a příbuzní pracovníci,2612
+http://data.europa.eu/esco/isco/C2619,key_161,e9428a59-983c-4add-8a40-5d2bc0c68523,Specialisté v právní oblasti a pracovníci v příbuzných oborech jinde neuvedení,2619
+http://data.europa.eu/esco/isco/C262,key_162,cd4e4d64-977b-4249-b9bb-43f0cc385b9e,"Specialisté v knihovnách, archivech a v příbuzných oborech",262
+http://data.europa.eu/esco/isco/C2621,key_163,d367e07d-5c49-43ec-8baf-87fa7221bc3a,Specialisté archiváři a kurátoři,2621
+http://data.europa.eu/esco/isco/C2622,key_164,1dc78923-3b8d-4645-be14-4abbcb0d3d75,Specialisté v knihovnách a v příbuzných oborech,2622
+http://data.europa.eu/esco/isco/C263,key_165,af26ad05-1721-4f33-9407-78abb3ef9799,"Specialisté v oblasti sociální, církevní a v příbuzných oborech",263
+http://data.europa.eu/esco/isco/C2631,key_166,5b1c056a-c341-4023-b07e-8f420397ad16,Specialisté v oblasti národohospodářství,2631
+http://data.europa.eu/esco/isco/C2632,key_167,f601ff7a-bce0-4650-9a60-61ee4d3f68b7,"Sociologové, antropologové a specialisté v příbuzných oborech",2632
+http://data.europa.eu/esco/isco/C2633,key_168,21878bdc-e043-4b25-a5d6-b734598076e9,"Filozofové, historici a politologové",2633
+http://data.europa.eu/esco/isco/C2634,key_169,6009df90-9e8a-41e9-acf6-de474b651fad,Psychologové,2634
+http://data.europa.eu/esco/isco/C2635,key_170,81a7ec37-acb7-4942-9b29-55c6df2ac154,Specialisté v oblasti sociální práce a poradenství,2635
+http://data.europa.eu/esco/isco/C2636,key_171,c8344c31-0dce-4dfb-a31e-ef017c0a3cca,Specialisté v církevní oblasti a v příbuzných oborech,2636
+http://data.europa.eu/esco/isco/C264,key_172,119041c8-3cce-41c0-bcc1-b2bb33692b62,"Spisovatelé, novináři a jazykovědci",264
+http://data.europa.eu/esco/isco/C2641,key_173,499c3834-7f3f-45b6-b9be-74a4fea52109,Spisovatelé a pracovníci v příbuzných oborech,2641
+http://data.europa.eu/esco/isco/C2642,key_174,ef54342f-2815-479a-8e87-af1e17530a3b,Novináři,2642
+http://data.europa.eu/esco/isco/C2643,key_175,7d595aa0-0e91-4d0d-bdb7-75211ad7d9ae,"Překladatelé, tlumočníci a jazykovědci",2643
+http://data.europa.eu/esco/isco/C265,key_176,4eefcfa8-e570-431b-b6e1-2eb73fff221b,Výkonní umělci,265
+http://data.europa.eu/esco/isco/C2651,key_177,0e952be4-3f9f-4382-8981-06a89d8fb4fd,Výtvarní umělci,2651
+http://data.europa.eu/esco/isco/C2652,key_178,2206d3fe-02f2-48d0-8c44-53c6e30e692f,"Hudebníci, zpěváci a skladatelé",2652
+http://data.europa.eu/esco/isco/C2653,key_179,4b042929-c0e0-43fa-a55d-47a58500577a,Tanečníci a choreografové,2653
+http://data.europa.eu/esco/isco/C2654,key_180,6be07c83-49ac-479b-8e0e-2483bffc0f62,"Filmoví, divadelní a příbuzní režiséři a producenti",2654
+http://data.europa.eu/esco/isco/C2655,key_181,b0463207-5b88-4df6-9680-705aa4ab4af4,Herci,2655
+http://data.europa.eu/esco/isco/C2656,key_182,bef92676-1b80-4ac9-a4f7-2311b28fb499,Moderátoři v rozhlasu a televizi a ostatní moderátoři,2656
+http://data.europa.eu/esco/isco/C2659,key_183,d3f54462-b0ba-4a12-a339-8bee737c2d1b,Výkonní umělci jinde neuvedení,2659
+http://data.europa.eu/esco/isco/C3,key_184,58bcefc3-44a9-428d-bb6f-e28fb7eb1996,Techničtí a odborní pracovníci,3
+http://data.europa.eu/esco/isco/C31,key_185,276d26f3-c21d-4917-84dd-32240b58cc70,Techničtí a odborní pracovníci v oblasti vědy a techniky,31
+http://data.europa.eu/esco/isco/C311,key_186,e87c5939-a604-4fe4-9d0f-9385d89d8843,Technici ve fyzikálních a příbuzných oborech,311
+http://data.europa.eu/esco/isco/C3111,key_187,d8f1ceb1-c753-4e77-b950-b0fba95dc3f1,Technici v chemických a fyzikálních vědách (kromě chemického inženýrství),3111
+http://data.europa.eu/esco/isco/C3112,key_188,be94704e-ca75-4c66-b9d1-8ebedf418431,Stavební technici,3112
+http://data.europa.eu/esco/isco/C3113,key_189,48cc6070-9b8b-44fd-ab48-c57fac04272c,Elektrotechnici (kromě řídicích a navigačních zařízení letového provozu) a technici energetici,3113
+http://data.europa.eu/esco/isco/C3114,key_190,20c849e2-18b4-43af-a9e3-7814a2a5106c,Technici elektronici,3114
+http://data.europa.eu/esco/isco/C3115,key_191,85944377-0359-4bb7-a25b-a23715ba9875,Strojírenští technici,3115
+http://data.europa.eu/esco/isco/C3116,key_192,7ea1f204-5348-4832-84e0-96c4081a3439,Technici v chemickém inženýrství a příbuzných oborech,3116
+http://data.europa.eu/esco/isco/C3117,key_193,1f00ba62-c61e-4f1d-910d-8b35808d8043,Důlní a hutní technici a pracovníci v příbuzných oborech,3117
+http://data.europa.eu/esco/isco/C3118,key_194,8e226af3-ece0-4b83-b3f4-ca7b196a9e4a,"Technici kartografové, zeměměřiči a pracovníci v příbuzných oborech",3118
+http://data.europa.eu/esco/isco/C3119,key_195,abf31961-92c4-4eaf-9a4c-01945c80b076,Technici ve fyzikálních a příbuzných oborech jinde neuvedení,3119
+http://data.europa.eu/esco/isco/C312,key_196,8258b922-4770-4c0c-80e9-a0f991209673,"Mistři a příbuzní pracovníci v oblasti těžby, výroby a stavebnictví",312
+http://data.europa.eu/esco/isco/C3121,key_197,dc2ae5ba-8668-48df-a63f-539bba37f346,Mistři a příbuzní pracovníci v oblasti těžby a hutní výroby,3121
+http://data.europa.eu/esco/isco/C3122,key_198,a549e65d-88c8-4d52-87e8-22a88b5e8adf,Mistři a příbuzní pracovníci ve výrobě,3122
+http://data.europa.eu/esco/isco/C3123,key_199,01eb2d03-88e3-4467-9404-fb5ef63fd356,Mistři a příbuzní pracovníci ve stavebnictví,3123
+http://data.europa.eu/esco/isco/C313,key_200,98e73cbf-16e8-419b-ab89-78a9a31e531a,Operátoři velínů a zařízení,313
+http://data.europa.eu/esco/isco/C3131,key_201,532a4f44-19b9-442e-8d27-4861f0b1b440,Operátoři velínů a zařízení na výrobu a rozvod elektrické energie,3131
+http://data.europa.eu/esco/isco/C3132,key_202,da7d52b2-86b9-4dc9-a08e-cae89d79b912,Operátoři velínů a zařízení spaloven a vodáren a pracovníci v příbuzných oborech,3132
+http://data.europa.eu/esco/isco/C3133,key_203,25e667fc-d691-426c-bea1-3b50e235643f,Operátoři velínů a zařízení chemické výroby (kromě zpracování ropy a zemního plynu),3133
+http://data.europa.eu/esco/isco/C3134,key_204,e21be302-2a2c-48fc-9e2c-26852faf573f,Operátoři velínů a zařízení zpracování ropy a zemního plynu,3134
+http://data.europa.eu/esco/isco/C3135,key_205,28f31aaa-dc1e-4f95-8b36-fb76b431512c,"Operátoři velínů a zařízení na zpracování kovů, kontroloři",3135
+http://data.europa.eu/esco/isco/C3139,key_206,72ab83c5-85d3-4298-b406-55cad1b1735d,Operátoři velínů a zařízení jinde neuvedení,3139
+http://data.europa.eu/esco/isco/C314,key_207,c1cc8773-98b5-49c6-a53f-afbc2056e1c3,Technici v biologických a příbuzných oborech,314
+http://data.europa.eu/esco/isco/C3141,key_208,44338cab-5b26-4a95-8263-2f57219ddb06,Technici v biologických oborech (kromě zdravotnických),3141
+http://data.europa.eu/esco/isco/C3142,key_209,1dde8843-c3d1-41fc-a5b5-cffafab1db12,Technici v oblasti zemědělství a rybářství,3142
+http://data.europa.eu/esco/isco/C3143,key_210,0742c172-3def-4068-8e98-567774f3ed45,Technici v oblasti lesnictví,3143
+http://data.europa.eu/esco/isco/C315,key_211,6f50de23-4a89-4627-86b2-429837c90f66,Technici a kontroloři v oblasti letecké a lodní dopravy,315
+http://data.europa.eu/esco/isco/C3151,key_212,40b62715-41fc-4571-b039-a148ea0746b2,Lodní technici,3151
+http://data.europa.eu/esco/isco/C3152,key_213,d90d5704-137e-4c62-a9ef-20830e6441bf,Lodní důstojníci a lodivodi,3152
+http://data.europa.eu/esco/isco/C3153,key_214,3b0db899-0181-48bf-8b05-d38fd3eecf4f,"Piloti, navigátoři, letečtí technici a příbuzní pracovníci",3153
+http://data.europa.eu/esco/isco/C3154,key_215,eb8b999c-1db9-4512-9c58-2087eb855042,Řídící letového provozu,3154
+http://data.europa.eu/esco/isco/C3155,key_216,85dff021-25df-4c96-ab68-aece6df8a820,Elektrotechnici řídicích a navigačních zařízení letového provozu,3155
+http://data.europa.eu/esco/isco/C32,key_217,a06c85b3-ef58-41c3-8d9b-bd11961ca337,Odborní pracovníci v oblasti zdravotnictví,32
+http://data.europa.eu/esco/isco/C321,key_218,dfbd83d0-5319-4bdd-9260-128f7b644e23,Zdravotničtí technici a farmaceutičtí asistenti,321
+http://data.europa.eu/esco/isco/C3211,key_219,b366497c-f006-4605-b631-3040f1942e66,Technici pro obsluhu lékařských zařízení,3211
+http://data.europa.eu/esco/isco/C3212,key_220,9b0aad67-69f6-4855-b176-4ee9bb27a76d,Odborní laboranti v oblasti zdravotnictví,3212
+http://data.europa.eu/esco/isco/C3213,key_221,7c14326a-a4a6-412f-b68d-ba54dd2fa54c,Farmaceutičtí asistenti,3213
+http://data.europa.eu/esco/isco/C3214,key_222,3fff0238-c0bd-412d-8ec2-f82eb0eec093,Technici v oblasti ortotiky a protetiky,3214
+http://data.europa.eu/esco/isco/C322,key_223,47b67978-00f9-4d30-ae66-4fd4a67df7ff,Odborní pracovníci v oblasti ošetřovatelství a porodnictví,322
+http://data.europa.eu/esco/isco/C3221,key_224,9f337466-ddf2-454c-a380-db03d0caa32e,Odborní pracovníci v oblasti ošetřovatelství,3221
+http://data.europa.eu/esco/isco/C3222,key_225,89968a15-0a42-45cf-a064-85060ebeff06,Odborní pracovníci v oblasti porodnictví,3222
+http://data.europa.eu/esco/isco/C323,key_226,ed9e7ef2-5ab6-40ae-8e93-927326a4f02f,Odborní pracovníci tradiční a alternativní medicíny,323
+http://data.europa.eu/esco/isco/C3230,key_227,3b387489-43cf-4909-8725-867e7792ce45,Odborní pracovníci tradiční a alternativní medicíny,3230
+http://data.europa.eu/esco/isco/C324,key_228,ec467369-6a8e-4226-93fa-5036c2c00f80,Veterinární technici a asistenti,324
+http://data.europa.eu/esco/isco/C3240,key_229,ab9ce281-32e8-4b36-b2b4-0e1fc8a69dc3,Veterinární technici a asistenti,3240
+http://data.europa.eu/esco/isco/C325,key_230,2bbbbb12-6a63-4dd4-856f-7f1b92f4d358,Ostatní odborní pracovníci v oblasti zdravotnictví,325
+http://data.europa.eu/esco/isco/C3251,key_231,35f6ae60-e414-4afa-a41b-e95526b1245b,Dentální hygienisti,3251
+http://data.europa.eu/esco/isco/C3252,key_232,966c2aa0-b1e8-414e-aeb9-bf72f6efc341,Technici pro lékařské záznamy a informace o zdravotním stavu,3252
+http://data.europa.eu/esco/isco/C3253,key_233,c66f99a7-2e4f-4729-867c-a2378bd71150,Odborní pracovníci v oblasti komunitního zdravotnictví,3253
+http://data.europa.eu/esco/isco/C3254,key_234,688c6689-0740-44f1-9d18-4221b5b9dc72,Odborní pracovníci v oblasti oční optiky,3254
+http://data.europa.eu/esco/isco/C3255,key_235,527a1ebb-9c04-4552-a022-e72c419ad504,Odborní pracovníci v oblasti rehabilitace,3255
+http://data.europa.eu/esco/isco/C3256,key_236,1f969b82-61ed-4443-8262-f09c868557a0,Odborní zdravotničtí asistenti,3256
+http://data.europa.eu/esco/isco/C3257,key_237,af77018c-c921-4b15-ad5d-f2f5a70139ce,Asistenti ochrany veřejného zdraví,3257
+http://data.europa.eu/esco/isco/C3258,key_238,25ffe1b0-77e5-4072-ba0f-d9f2407bfa9f,Zdravotničtí záchranáři,3258
+http://data.europa.eu/esco/isco/C3259,key_239,fdf803f9-9bda-4aac-a239-16ecf4021570,Odborní pracovníci v oblasti zdravotnictví jinde neuvedení,3259
+http://data.europa.eu/esco/isco/C33,key_240,976ed969-b127-48de-8461-582f6af5fb22,Odborní pracovníci v obchodní sféře a veřejné správě,33
+http://data.europa.eu/esco/isco/C331,key_241,c6561e53-442f-4ec8-8680-77acadc84b87,"Odborní pracovníci v oblasti financí, matematiky a v příbuzných oborech",331
+http://data.europa.eu/esco/isco/C3311,key_242,ddfc8ae9-dda7-444c-bf2e-ea43e44c4e6a,Zprostředkovatelé finančních transakcí a finanční makléři,3311
+http://data.europa.eu/esco/isco/C3312,key_243,a7d25d9b-23bf-46ff-9a09-5f25a7745d0b,Zprostředkovatelé úvěrů a půjček,3312
+http://data.europa.eu/esco/isco/C3313,key_244,3e9a5c37-045f-4c74-a718-81f6a359dd18,Odborní pracovníci v oblasti účetnictví a ekonomiky,3313
+http://data.europa.eu/esco/isco/C3314,key_245,a7b279da-b322-42ba-92d2-7dc5684ecb61,"Odborní pracovníci v oblasti statistiky, matematiky a v příbuzných oborech",3314
+http://data.europa.eu/esco/isco/C3315,key_246,461381ca-e918-4a93-87c6-be68478e317d,Odhadci a zbožíznalci,3315
+http://data.europa.eu/esco/isco/C332,key_247,7dc1371e-c6eb-4557-bd6f-5e4662f37dcc,"Odborní pracovníci v oblasti pojišťovnictví, obchodní zástupci, nákupčí a obchodní makléři",332
+http://data.europa.eu/esco/isco/C3321,key_248,bc7a617d-8b83-452f-81b8-58ab0a3fcbcd,Odborní pracovníci v oblasti pojišťovnictví,3321
+http://data.europa.eu/esco/isco/C3322,key_249,d2480121-4190-41eb-98d8-2a3e2c5cb439,Obchodní zástupci,3322
+http://data.europa.eu/esco/isco/C3323,key_250,134e63be-8740-4461-a7a9-c506d8174d5b,Nákupčí,3323
+http://data.europa.eu/esco/isco/C3324,key_251,8b6303aa-d314-49f5-a269-b57ca4b0a8f9,Obchodní makléři,3324
+http://data.europa.eu/esco/isco/C333,key_252,a5c93915-3855-4d83-89e6-0922024ae616,Zprostředkovatelé služeb,333
+http://data.europa.eu/esco/isco/C3331,key_253,64b978bb-732b-4c97-9f7e-ac83fe1d55e4,"Odbytoví a přepravní agenti, celní deklaranti",3331
+http://data.europa.eu/esco/isco/C3332,key_254,06932fa2-d4dd-4920-b934-32f1ba6ecc8a,Organizátoři konferencí a událostí,3332
+http://data.europa.eu/esco/isco/C3333,key_255,b3302778-8048-408d-9d68-80ec1dd1a829,Odborní pracovníci úřadů práce a pracovních agentur,3333
+http://data.europa.eu/esco/isco/C3334,key_256,41ddf78e-541b-4437-9079-298d36bbe173,Realitní makléři,3334
+http://data.europa.eu/esco/isco/C3339,key_257,90f211f8-4684-4a2b-a80e-02682754d36c,Zprostředkovatelé služeb jinde neuvedení,3339
+http://data.europa.eu/esco/isco/C334,key_258,6f402f14-f22d-40b5-b1a7-8a1b84c102b8,Odborní administrativní pracovníci a asistenti,334
+http://data.europa.eu/esco/isco/C3341,key_259,59ffa585-3792-4731-881d-a5115710e52d,Vedoucí administrativních agend,3341
+http://data.europa.eu/esco/isco/C3342,key_260,d4e44640-cc94-4a8a-8d19-d062d977791c,Odborní administrativní pracovníci v právní oblasti,3342
+http://data.europa.eu/esco/isco/C3343,key_261,579bde38-ebbd-4712-a71c-badd281c7cf6,Odborní asistenti v administrativě,3343
+http://data.europa.eu/esco/isco/C3344,key_262,c878241f-de7a-4132-969c-3d8f383c3e36,Odborní administrativní pracovníci v oblasti zdravotnictví,3344
+http://data.europa.eu/esco/isco/C335,key_263,7943a1e1-c973-48a6-ae4d-11118269bc6d,Pracovníci veřejné správy v oblasti státních regulací,335
+http://data.europa.eu/esco/isco/C3351,key_264,4abc4a4f-840b-4b89-8d3d-0fdb0c4d2801,Pracovníci celní a hraniční kontroly,3351
+http://data.europa.eu/esco/isco/C3352,key_265,5e5b973a-8e61-4dd1-a6ac-726da5b2f6bb,Pracovníci veřejné správy v oblasti daní,3352
+http://data.europa.eu/esco/isco/C3353,key_266,a101115f-a2d3-41dc-a2e9-83d850396a34,Pracovníci veřejné správy v oblasti sociálních a jiných dávek,3353
+http://data.europa.eu/esco/isco/C3354,key_267,214aa29a-9b04-4341-a963-5ad32afe1127,Pracovníci veřejné správy vydávající různá povolení,3354
+http://data.europa.eu/esco/isco/C3355,key_268,5ff3e887-fd41-4735-a757-ca859fd50d16,Policejní inspektoři a detektivové,3355
+http://data.europa.eu/esco/isco/C3359,key_269,478fe81d-e625-43a5-887e-3855c58b381e,Pracovníci veřejné správy v oblasti státních regulací jinde neuvedení,3359
+http://data.europa.eu/esco/isco/C34,key_270,484dc275-9eb5-4c0e-967d-134ea9fb259e,"Odborní pracovníci v oblasti práva, kultury, sportu a v příbuzných oborech",34
+http://data.europa.eu/esco/isco/C341,key_271,ac3f54df-27ad-4f63-82db-e421b993f374,"Odborní pracovníci v oblasti právní, sociální a církevní",341
+http://data.europa.eu/esco/isco/C3411,key_272,cacb7aa0-059d-49d2-940a-3ae48a824747,Odborní pracovníci v právní oblasti a v příbuzných oborech,3411
+http://data.europa.eu/esco/isco/C3412,key_273,0dac9c58-004c-4eaf-af28-1e1982ce5d2e,Odborní pracovníci v oblasti sociální práce,3412
+http://data.europa.eu/esco/isco/C3413,key_274,2aa69cdc-b39f-4d2b-a2d6-dfd8327b1314,Odborní pracovníci v církevní oblasti a v příbuzných oborech,3413
+http://data.europa.eu/esco/isco/C342,key_275,30492ad5-cc1a-4950-ab36-f78b185835ec,Odborní pracovníci v oblasti sportu a fitness,342
+http://data.europa.eu/esco/isco/C3421,key_276,3abf4667-9fd5-4b20-afcb-2dff5164c9cf,Atleti a ostatní profesionální sportovci,3421
+http://data.europa.eu/esco/isco/C3422,key_277,b8f2f6d8-b9f1-408b-85ff-278e88bda3a1,"Sportovní trenéři, instruktoři a úředníci sportovních klubů",3422
+http://data.europa.eu/esco/isco/C3423,key_278,905da210-8d1a-41e2-ab0e-61050cd8e3d6,Instruktoři a programoví vedoucí v rekreačních zařízeních a fitcentrech,3423
+http://data.europa.eu/esco/isco/C343,key_279,0784b98f-c8a6-4d9e-8aed-8918d39a61aa,"Odborní pracovníci v oblasti umění a kultury, šéfkuchaři",343
+http://data.europa.eu/esco/isco/C3431,key_280,63e8aa91-00fc-4e81-9f38-87415b29de93,Fotografové,3431
+http://data.europa.eu/esco/isco/C3432,key_281,45c2282d-bd71-4418-a032-7d86725e22ae,Aranžéři a příbuzní pracovníci,3432
+http://data.europa.eu/esco/isco/C3433,key_282,0be2720a-7dad-4431-aec3-d8675199c4c8,"Konzervátoři, restaurátoři a preparátoři a příbuzní pracovníci v galeriích, muzeích a knihovnách",3433
+http://data.europa.eu/esco/isco/C3434,key_283,36f33b65-bda0-4b8c-ab10-351272aa19c0,Šéfkuchaři a šéfcukráři,3434
+http://data.europa.eu/esco/isco/C3435,key_284,94d98b52-ba6a-4fe8-8fd2-ceb5d3ba5126,Ostatní odborní pracovníci v oblasti umění a kultury,3435
+http://data.europa.eu/esco/isco/C35,key_285,50d06a89-093d-4162-b4bd-90d2089668a1,Technici v oblasti informačních a komunikačních technologií,35
+http://data.europa.eu/esco/isco/C351,key_286,2d5119f8-f515-441c-837c-71e4f21c105c,Technici provozu a uživatelské podpory informačních a komunikačních technologií a příbuzní pracovníci,351
+http://data.europa.eu/esco/isco/C3511,key_287,e4eb0e89-3f4b-48bd-aee5-a723181f6278,Technici provozu informačních a komunikačních technologií,3511
+http://data.europa.eu/esco/isco/C3512,key_288,ee52ad1c-02f2-47f6-a9ce-9fffca1afd2d,Technici uživatelské podpory informačních a komunikačních technologií,3512
+http://data.europa.eu/esco/isco/C3513,key_289,66b0cb0c-9d60-4d83-9988-7593edc7c57e,Technici počítačových sítí a systémů,3513
+http://data.europa.eu/esco/isco/C3514,key_290,4b24fbd0-ecd3-45d4-b487-32a00a2a8177,Správci webu,3514
+http://data.europa.eu/esco/isco/C352,key_291,d9b34899-ed8c-45a3-a8c0-c6c7be289f34,Technici v oblasti telekomunikací a vysílání,352
+http://data.europa.eu/esco/isco/C3521,key_292,011029ba-c8a8-491e-ac06-b64b91d5b1d6,Technici vysílání a obsluha záznamu zvuku,3521
+http://data.europa.eu/esco/isco/C3522,key_293,44fabcad-5fac-4463-b8bd-c6a0151c774b,Technici v oblasti telekomunikací,3522
+http://data.europa.eu/esco/isco/C4,key_294,8ab7e6f2-746b-4226-908e-1c678f328f4d,Úředníci,4
+http://data.europa.eu/esco/isco/C41,key_295,66073bc3-e94c-49b3-a45a-91c9c1af7b2a,"Všeobecní administrativní pracovníci, sekretáři a pracovníci pro zadávání dat a zpracování textů",41
+http://data.europa.eu/esco/isco/C411,key_296,2a4dff12-3368-44a7-b6a6-63ed274e28a0,Všeobecní administrativní pracovníci,411
+http://data.europa.eu/esco/isco/C4110,key_297,184079a9-c362-4c14-ae8e-7b6e1ee086f3,Všeobecní administrativní pracovníci,4110
+http://data.europa.eu/esco/isco/C412,key_298,b179dcf3-e932-4518-bf4f-ebc1de695e4a,Sekretáři (všeobecní),412
+http://data.europa.eu/esco/isco/C4120,key_299,b9ef8bc6-0f46-4b8c-aa06-21b85bdb9bd3,Sekretáři (všeobecní),4120
+http://data.europa.eu/esco/isco/C413,key_300,d6b20919-9614-497d-b35e-ef335f9e7c2d,Pracovníci pro zadávání dat a zpracování textů,413
+http://data.europa.eu/esco/isco/C4131,key_301,b4c8f10d-7ecd-40ee-99ad-7d488d18977f,"Pracovníci pro zpracování textů, písaři",4131
+http://data.europa.eu/esco/isco/C4132,key_302,d278cd55-4cd6-4e8a-9b50-78d4c0230aa0,Pracovníci pro zadávání dat,4132
+http://data.europa.eu/esco/isco/C42,key_303,f5d3a0ea-9066-463f-8233-6745d2ddb872,"Pracovníci informačních služeb, na přepážkách a v příbuzných oborech",42
+http://data.europa.eu/esco/isco/C421,key_304,efb3ff4f-8047-40c2-8ef6-b7b8074c9de9,"Pokladníci ve finančních institucích, bookmakeři, půjčovatelé peněz, inkasisté pohledávek a pracovníci v příbuzných oborech",421
+http://data.europa.eu/esco/isco/C4211,key_305,41b52028-85f4-4d63-8a05-ff509b7ac26d,Pokladníci ve finančních institucích a pracovníci v příbuzných oborech,4211
+http://data.europa.eu/esco/isco/C4212,key_306,4f8b2e5a-3ec7-4a1c-bf69-9d2418472fdf,"Bookmakeři, krupiéři a pracovníci v příbuzných oborech",4212
+http://data.europa.eu/esco/isco/C4213,key_307,56a8a296-0025-4244-a6a9-0b84d41e3698,Zastavárníci a půjčovatelé peněz,4213
+http://data.europa.eu/esco/isco/C4214,key_308,153481c7-d809-4699-840b-8fb73df8e465,Inkasisté pohledávek a pracovníci v příbuzných oborech,4214
+http://data.europa.eu/esco/isco/C422,key_309,707a1ef3-b916-4aaf-b1b6-a242197a9cb3,Pracovníci informačních služeb,422
+http://data.europa.eu/esco/isco/C4221,key_310,fbd85f80-a5e2-4e52-923b-31e6fbf748c3,Pracovníci cestovního ruchu,4221
+http://data.europa.eu/esco/isco/C4222,key_311,aa0a256e-8ab7-49bc-967c-579e9111ac39,Pracovníci v zákaznických kontaktních centrech,4222
+http://data.europa.eu/esco/isco/C4223,key_312,6423cedd-38e9-4f6f-b9a3-e01242c1f340,Operátoři telefonních panelů,4223
+http://data.europa.eu/esco/isco/C4224,key_313,8bf6723a-a15e-425e-b959-8b6dd0b6b220,Recepční v hotelích,4224
+http://data.europa.eu/esco/isco/C4225,key_314,f296ec61-1075-457d-a5f2-4fb95e0a33d9,Pracovníci v informačních kancelářích,4225
+http://data.europa.eu/esco/isco/C4226,key_315,22836413-e55a-485b-b8a4-59f446342aaf,Recepční (kromě recepčních v hotelích),4226
+http://data.europa.eu/esco/isco/C4227,key_316,04aeb938-a630-4879-b327-9f53943bfdc3,Tazatelé průzkumů,4227
+http://data.europa.eu/esco/isco/C4229,key_317,d706d62a-240e-45bb-aa01-ac7e07093b33,Pracovníci informačních služeb jinde neuvedení,4229
+http://data.europa.eu/esco/isco/C43,key_318,ac07a2ce-4e59-48d1-af7b-fe0e471ffa08,Úředníci pro zpracování číselných údajů a v logistice,43
+http://data.europa.eu/esco/isco/C431,key_319,7b822237-722c-4f03-8288-5cd9a1cfe25c,Úředníci pro zpracování číselných údajů,431
+http://data.europa.eu/esco/isco/C4311,key_320,5eb6b55f-0ba8-42ac-aa42-d92bca6ba487,Úředníci v oblasti účetnictví,4311
+http://data.europa.eu/esco/isco/C4312,key_321,0540e28b-1add-4521-84b2-005926391edc,"Úředníci v oblasti statistiky, financí a pojištění",4312
+http://data.europa.eu/esco/isco/C4313,key_322,521a179e-e507-4867-9872-d6040b1f4022,Mzdoví účetní,4313
+http://data.europa.eu/esco/isco/C432,key_323,e460df57-cedd-4609-951e-2ad7297e6b62,Úředníci v logistice,432
+http://data.europa.eu/esco/isco/C4321,key_324,edc63feb-5ee3-4ece-b14c-1815ad07bc38,Úředníci ve skladech,4321
+http://data.europa.eu/esco/isco/C4322,key_325,abafe96b-c8dd-4c95-8875-a41e23e60981,Úředníci ve výrobě,4322
+http://data.europa.eu/esco/isco/C4323,key_326,e27ecec9-6c55-412a-a2c5-7ae18a4617b7,Úředníci v dopravě a přepravě,4323
+http://data.europa.eu/esco/isco/C44,key_327,89458184-56fd-4e69-827d-01485528065b,Ostatní úředníci,44
+http://data.europa.eu/esco/isco/C441,key_328,7a7cfa77-3dab-4bca-9760-d733a027ea98,Ostatní úředníci,441
+http://data.europa.eu/esco/isco/C4411,key_329,a8dd6c1a-d858-4fa8-8196-e30c843c22b9,Knihovníci,4411
+http://data.europa.eu/esco/isco/C4412,key_330,884a6e38-1d24-4eb3-b58f-28986f77d51c,Pracovníci poštovního provozu (kromě úředníků na přepážkách),4412
+http://data.europa.eu/esco/isco/C4413,key_331,db114551-0f9e-433c-8161-64107dff265d,"Korektoři, kódovači a příbuzní pracovníci",4413
+http://data.europa.eu/esco/isco/C4414,key_332,d2f81133-f13b-4391-8e06-45b4ea8fbb9d,Opisovači a příbuzní pracovníci,4414
+http://data.europa.eu/esco/isco/C4415,key_333,58127173-0eec-4f67-89b2-5abb89e9b7bd,Pracovníci evidence dat a archivů,4415
+http://data.europa.eu/esco/isco/C4416,key_334,5d4c953c-da35-456a-83ab-ca474aaf725e,Personální referenti,4416
+http://data.europa.eu/esco/isco/C4419,key_335,536137ad-8508-4453-b948-a190ed40b9be,Úředníci jinde neuvedení,4419
+http://data.europa.eu/esco/isco/C5,key_336,429e7359-fdd5-4f95-b76a-bc5ab84ee080,Pracovníci ve službách a prodeji,5
+http://data.europa.eu/esco/isco/C51,key_337,41bf0f15-a124-4548-80df-0a86600d0924,Pracovníci v oblasti osobních služeb,51
+http://data.europa.eu/esco/isco/C511,key_338,e2290e76-0d6f-4c06-b720-5dcf976da6e6,"Obslužní pracovníci, průvodčí v dopravě a průvodci v cestovním ruchu",511
+http://data.europa.eu/esco/isco/C5111,key_339,b150f1cc-c347-4e6e-a12c-bd3f1d5b8dea,Obslužní pracovníci v dopravě a stevardi,5111
+http://data.europa.eu/esco/isco/C5112,key_340,1d17a194-d4ac-45d6-b4fd-b3ff948b7989,Průvodčí a příbuzní pracovníci v dopravě,5112
+http://data.europa.eu/esco/isco/C5113,key_341,b7fd01ae-e3ce-4fcb-9de2-03779deca6a6,Průvodci v cestovním ruchu,5113
+http://data.europa.eu/esco/isco/C512,key_342,448028ec-4dcd-44d5-bf31-dca405c66c8a,Kuchaři (kromě šéfkuchařů),512
+http://data.europa.eu/esco/isco/C5120,key_343,ce704b87-4ea8-45d5-9cc6-28961e8b8c5b,Kuchaři (kromě šéfkuchařů),5120
+http://data.europa.eu/esco/isco/C513,key_344,406ba804-a542-4381-9cf6-1718be59dc95,"Číšníci, servírky a barmani",513
+http://data.europa.eu/esco/isco/C5131,key_345,8a488075-c145-4f5b-88f8-0ab87bbe8739,Číšníci a servírky,5131
+http://data.europa.eu/esco/isco/C5132,key_346,e2028773-4a21-494a-a851-43b850ae7a1f,Barmani,5132
+http://data.europa.eu/esco/isco/C514,key_347,1d79423e-8df6-4972-853b-6d56c8dab14f,"Kadeřníci, kosmetici a pracovníci v příbuzných oborech",514
+http://data.europa.eu/esco/isco/C5141,key_348,f135e9ee-e243-465a-bc86-f799519735b1,Kadeřníci,5141
+http://data.europa.eu/esco/isco/C5142,key_349,a50dc8ff-e399-4530-a388-e74238690612,Kosmetici a pracovníci v příbuzných oborech,5142
+http://data.europa.eu/esco/isco/C515,key_350,5b8dc38d-f6de-4385-9b0e-f1a7bf7d6557,Provozní pracovníci,515
+http://data.europa.eu/esco/isco/C5151,key_351,c4baad44-4e9c-4134-bd2c-7a7b8a575d50,"Provozní pracovníci stravovacích, ubytovacích zařízení, kanceláří a dalších zařízení",5151
+http://data.europa.eu/esco/isco/C5152,key_352,24e67334-e990-47e3-981c-c14d8375f8f3,Hospodyně v domácnostech,5152
+http://data.europa.eu/esco/isco/C5153,key_353,bb3b0553-9e42-4508-907f-79472f0a0fb8,Správci objektů,5153
+http://data.europa.eu/esco/isco/C516,key_354,4c4a175a-3e26-4a29-842c-e04544555230,Ostatní pracovníci v oblasti osobních služeb,516
+http://data.europa.eu/esco/isco/C5161,key_355,7b2a0064-aa67-4439-b5b1-811ff9400d32,"Astrologové, jasnovidci a pracovníci v příbuzných oborech",5161
+http://data.europa.eu/esco/isco/C5162,key_356,1d2608f0-2a6a-4f9f-ad93-704eaee3458d,Společníci a osobní sluhové,5162
+http://data.europa.eu/esco/isco/C5163,key_357,9147ff14-6002-4d9a-9ba6-71bf2e74b8d4,Pracovníci pohřebních služeb a balzamovači,5163
+http://data.europa.eu/esco/isco/C5164,key_358,d1ab6bea-ff2a-41e1-a592-b2dfe4e1ebfb,Pracovníci zajišťující služby spojené s péčí o domácí a jiná zvířata,5164
+http://data.europa.eu/esco/isco/C5165,key_359,c594b000-18cb-4fe8-a905-df182450eac7,Instruktoři autoškoly,5165
+http://data.europa.eu/esco/isco/C5169,key_360,1a474d5a-dc27-4ebe-a074-74f0d40cdbca,Pracovníci v oblasti osobních služeb jinde neuvedení,5169
+http://data.europa.eu/esco/isco/C52,key_361,3836d5c2-b0d7-406d-ae71-7d128a920f4d,Pracovníci v oblasti prodeje,52
+http://data.europa.eu/esco/isco/C521,key_362,98357f6a-33e4-4ad5-be72-b7266293ff1f,Stánkoví a pouliční prodavači potravin,521
+http://data.europa.eu/esco/isco/C5211,key_363,fbfede94-2b24-4261-920b-91fd4482e688,Stánkoví prodavači potravin (kromě rychlého občerstvení),5211
+http://data.europa.eu/esco/isco/C5212,key_364,595c31f0-4bcb-485f-9cc3-c11be5d14659,Pouliční prodavači rychlého občerstvení,5212
+http://data.europa.eu/esco/isco/C522,key_365,3c7b6350-c994-487c-bd8d-441394f01689,"Provozovatelé maloobchodních prodejen, prodavači a příbuzní pracovníci v prodejnách",522
+http://data.europa.eu/esco/isco/C5221,key_366,32ba4c8d-5c4d-4476-9c84-9d4fd73637e3,Provozovatelé maloobchodních prodejen,5221
+http://data.europa.eu/esco/isco/C5222,key_367,0e22b9f6-271f-425d-8008-af2cbfdde503,Vedoucí pracovních týmů v prodejnách,5222
+http://data.europa.eu/esco/isco/C5223,key_368,56c776b9-56ca-4074-9f7c-360ea973ae08,Prodavači v prodejnách,5223
+http://data.europa.eu/esco/isco/C523,key_369,42a83411-a813-4e8c-9f9a-bd4275a67f5e,Pokladníci a prodavači vstupenek a jízdenek,523
+http://data.europa.eu/esco/isco/C5230,key_370,30c132b1-c71b-43d6-a2ac-0f49879650d6,Pokladníci a prodavači vstupenek a jízdenek,5230
+http://data.europa.eu/esco/isco/C524,key_371,f2778534-97a6-4bf5-b43f-e34734525493,Ostatní pracovníci v oblasti prodeje,524
+http://data.europa.eu/esco/isco/C5241,key_372,eeedee9c-f991-41d7-a290-2c50cdbe88ae,Modelky a manekýni,5241
+http://data.europa.eu/esco/isco/C5242,key_373,91a5dde0-94a7-4443-8249-a4afaac39568,Předváděči zboží,5242
+http://data.europa.eu/esco/isco/C5243,key_374,f4ead72a-aa0b-48b7-8108-f283e419975b,Podomní prodavači,5243
+http://data.europa.eu/esco/isco/C5244,key_375,e67f77b6-22e5-479e-b44f-c730bbc9e672,Prodejci po telefonu,5244
+http://data.europa.eu/esco/isco/C5245,key_376,0806f6b7-40c6-4e8f-a06a-4c0ddc9cb4ad,Obsluha čerpacích stanic,5245
+http://data.europa.eu/esco/isco/C5246,key_377,edbf83e9-b55f-4e5d-8adf-25a5d39a0b76,Obsluha v zařízeních rychlého občerstvení,5246
+http://data.europa.eu/esco/isco/C5249,key_378,1da391e1-c0cc-4aab-b022-a8606fe8b724,Pracovníci v oblasti prodeje jinde neuvedení,5249
+http://data.europa.eu/esco/isco/C53,key_379,744eed93-449a-4d0d-8997-a6b0dce4390e,"Pracovníci osobní péče v oblasti vzdělávání, zdravotnictví a v příbuzných oborech",53
+http://data.europa.eu/esco/isco/C531,key_380,57cb4800-3c63-46ee-98a3-acc344cc69b3,"Pracovníci pečující o děti, asistenti pedagogů",531
+http://data.europa.eu/esco/isco/C5311,key_381,737ccd37-6c91-4f87-972b-6a37ada051f8,Pracovníci pečující o děti,5311
+http://data.europa.eu/esco/isco/C5312,key_382,e33cc633-f774-4f05-9e78-e3ee229e54f2,Asistenti pedagogů,5312
+http://data.europa.eu/esco/isco/C532,key_383,b79d3c5d-8e0e-40b3-88c9-41ed9d2c965b,Pracovníci osobní péče v oblasti zdravotnictví,532
+http://data.europa.eu/esco/isco/C5321,key_384,d546f9c2-2c5d-457f-b1f1-4adda16e0442,Ošetřovatelé a příbuzní pracovníci v oblasti zdravotnictví (kromě domácí péče),5321
+http://data.europa.eu/esco/isco/C5322,key_385,e2f29641-128b-4f64-b35f-97514e10eaea,Ošetřovatelé v oblasti domácí péče,5322
+http://data.europa.eu/esco/isco/C5329,key_386,c9d3ff45-9218-42e0-8af4-2f22efad07ec,Pracovníci osobní péče v oblasti zdravotnictví jinde neuvedení,5329
+http://data.europa.eu/esco/isco/C54,key_387,a007420b-a225-47ae-8826-dee2b1a28725,Pracovníci v oblasti ochrany a ostrahy,54
+http://data.europa.eu/esco/isco/C541,key_388,b07666a0-499c-4522-9fa0-71f2d284ad83,Pracovníci v oblasti ochrany a ostrahy,541
+http://data.europa.eu/esco/isco/C5411,key_389,0afc5d6c-c50e-40d5-8029-d68f86eb71f6,Hasiči,5411
+http://data.europa.eu/esco/isco/C5412,key_390,cd19203b-f088-41a5-bd1f-cb4c84571b11,Policisté,5412
+http://data.europa.eu/esco/isco/C5413,key_391,303d3d3f-ef07-4249-8c78-307dfb6e305d,Dozorci ve věznicích,5413
+http://data.europa.eu/esco/isco/C5414,key_392,9327f22e-b169-42f6-8569-6a5c757fdc98,Pracovníci ostrahy a bezpečnostních agentur,5414
+http://data.europa.eu/esco/isco/C5419,key_393,39c53d3e-9b93-46d2-a4a6-650829e9fc54,Pracovníci v oblasti ochrany a ostrahy jinde neuvedení,5419
+http://data.europa.eu/esco/isco/C6,key_394,ba779c23-224f-4b18-9dde-95f7e32eb322,"Kvalifikovaní pracovníci v zemědělství, lesnictví a rybářství",6
+http://data.europa.eu/esco/isco/C61,key_395,51a6cd89-3a3c-4351-a382-2935565721aa,"Kvalifikovaní pracovníci v zemědělství, orientovaní na trh",61
+http://data.europa.eu/esco/isco/C611,key_396,16706716-2bd9-4e03-8b7c-31f780b50b6b,Zahradníci a pěstitelé orientovaní na trh,611
+http://data.europa.eu/esco/isco/C6111,key_397,f13cb80c-9fd4-4346-9ced-18f5b3412dd2,Pěstitelé zemědělských plodin a zeleniny,6111
+http://data.europa.eu/esco/isco/C6112,key_398,20e44e09-a83b-42c0-85b2-b7d2a1ada05c,"Ovocnáři, vinaři, chmelaři a ostatní pěstitelé plodů rostoucích na stromech a keřích",6112
+http://data.europa.eu/esco/isco/C6113,key_399,fe20e0e6-261a-4bb0-a422-a1cb2911fc08,"Zahradníci, pěstitelé v zahradnických školkách",6113
+http://data.europa.eu/esco/isco/C6114,key_400,11aba335-2859-4a94-a1db-d2eb32d23fd3,Pěstitelé smíšených plodin,6114
+http://data.europa.eu/esco/isco/C612,key_401,f6cda836-1a9c-4c4d-8382-602181014492,Chovatelé a ošetřovatelé zvířat,612
+http://data.europa.eu/esco/isco/C6121,key_402,a9eae5d6-ca31-4289-a917-3c570d6156fe,Chovatelé hospodářských zvířat (kromě drůbeže),6121
+http://data.europa.eu/esco/isco/C6122,key_403,e3870ceb-95e7-4cd5-9cde-3dd57b262e2d,Chovatelé drůbeže,6122
+http://data.europa.eu/esco/isco/C6123,key_404,c4c30e68-3571-4080-a82d-acf345114fb0,Včelaři a chovatelé bource morušového,6123
+http://data.europa.eu/esco/isco/C6129,key_405,2b092309-cb06-4169-9a5b-db6597c82074,Chovatelé a ošetřovatelé zvířat jinde neuvedení,6129
+http://data.europa.eu/esco/isco/C613,key_406,ca496031-96c1-4102-9ef8-1e1069dfc76d,Pěstitelé a chovatelé ve smíšeném hospodářství,613
+http://data.europa.eu/esco/isco/C6130,key_407,c7528997-c8d6-4c25-9b6a-d7d3499933f9,Pěstitelé a chovatelé ve smíšeném hospodářství,6130
+http://data.europa.eu/esco/isco/C62,key_408,571a7ddc-c10a-48b0-a38b-e6d98e3c6247,"Kvalifikovaní pracovníci v lesnictví, rybářství a myslivosti, orientovaní na trh",62
+http://data.europa.eu/esco/isco/C621,key_409,1d2dfdd2-0a3f-44ca-a930-c0501e7e5ae0,Kvalifikovaní pracovníci v lesnictví a příbuzných oborech,621
+http://data.europa.eu/esco/isco/C6210,key_410,b54c6891-bc04-4be1-a91a-d1e074614077,Kvalifikovaní pracovníci v lesnictví a příbuzných oborech,6210
+http://data.europa.eu/esco/isco/C622,key_411,c51a9180-0179-4219-bcb2-e0e863972685,Kvalifikovaní pracovníci v rybářství a myslivosti,622
+http://data.europa.eu/esco/isco/C6221,key_412,11d8d2f4-431b-4058-972c-bfb83c21997d,Kvalifikovaní pracovníci v oblasti akvakultury,6221
+http://data.europa.eu/esco/isco/C6222,key_413,88dfe1ac-6f38-4c30-a27d-ad838caa4edf,Rybáři ve vnitrozemských a v pobřežních vodách,6222
+http://data.europa.eu/esco/isco/C6223,key_414,274ccd19-f07c-426c-870c-17e1b4b62da3,Rybáři na moři,6223
+http://data.europa.eu/esco/isco/C6224,key_415,379e2f20-4fd6-4a39-b288-98221b7db6ce,Kvalifikovaní pracovníci v oblasti myslivosti,6224
+http://data.europa.eu/esco/isco/C63,key_416,68ba710c-840c-48fc-81ac-88c32cc795b6,"Farmáři, rybáři, lovci a sběrači samozásobitelé",63
+http://data.europa.eu/esco/isco/C631,key_417,d88b019d-c37b-4003-ae67-ce85dec3a746,Farmáři samozásobitelé v rostlinné výrobě,631
+http://data.europa.eu/esco/isco/C6310,key_418,282a603f-bcfe-4fbc-994f-d4d1f07ba944,Farmáři samozásobitelé v rostlinné výrobě,6310
+http://data.europa.eu/esco/isco/C632,key_419,cc1fc1cf-2437-4bcb-866c-2a5d9f89ce68,Farmáři samozásobitelé v živočišné výrobě,632
+http://data.europa.eu/esco/isco/C6320,key_420,dbb6db70-2fc0-4744-b24b-97185a588dcd,Farmáři samozásobitelé v živočišné výrobě,6320
+http://data.europa.eu/esco/isco/C633,key_421,6cba0b02-8002-4b24-8f7f-1e18eea82011,Farmáři samozásobitelé ve smíšeném hospodářství,633
+http://data.europa.eu/esco/isco/C6330,key_422,c1f8c86b-4b91-49ae-9571-1fcb73fec6ee,Farmáři samozásobitelé ve smíšeném hospodářství,6330
+http://data.europa.eu/esco/isco/C634,key_423,eb6262cb-b468-46c8-9053-223130938c8c,"Rybáři, lovci a sběrači samozásobitelé",634
+http://data.europa.eu/esco/isco/C6340,key_424,b16ab8ed-d78e-4919-bc8d-64f86a4c4648,"Rybáři, lovci a sběrači samozásobitelé",6340
+http://data.europa.eu/esco/isco/C7,key_425,5a545d08-94d8-424d-aa63-d5ac163e368d,Řemeslníci a opraváři,7
+http://data.europa.eu/esco/isco/C71,key_426,aa006c09-b445-48a5-9cfc-1eaeadcee38a,Řemeslníci a kvalifikovaní pracovníci na stavbách (kromě elektrikářů),71
+http://data.europa.eu/esco/isco/C711,key_427,f81a5d92-c142-412c-b0eb-8fcd2737d2ee,Řemeslníci a kvalifikovaní pracovníci hlavní stavební výroby a v příbuzných oborech,711
+http://data.europa.eu/esco/isco/C7111,key_428,5f78f7e3-f3fd-4b89-b314-79fec063db5f,Pracovníci montovaných staveb,7111
+http://data.europa.eu/esco/isco/C7112,key_429,3e591754-f095-46e6-92f5-3b627a85134e,Zedníci a dlaždiči,7112
+http://data.europa.eu/esco/isco/C7113,key_430,e4244d35-2731-4d99-98e7-667ad04e464c,"Kameníci, řezači kamene, brusiči",7113
+http://data.europa.eu/esco/isco/C7114,key_431,8682fbdb-ea2e-4ded-9427-8031a0f2f270,"Betonáři, železobetonáři a pracovníci v příbuzných oborech",7114
+http://data.europa.eu/esco/isco/C7115,key_432,c78f6eaf-d75f-443d-93fc-3019ddcbd18b,Tesaři a stavební truhláři,7115
+http://data.europa.eu/esco/isco/C7119,key_433,bd2bec39-b860-41b5-97e1-5aa8894c1f99,Řemeslníci a kvalifikovaní pracovníci hlavní stavební výroby a v příbuzných oborech jinde neuvedení,7119
+http://data.europa.eu/esco/isco/C712,key_434,8d581bd6-0de4-430d-8fc1-2516a4ec63a7,Řemeslníci a kvalifikovaní pracovníci při dokončování staveb,712
+http://data.europa.eu/esco/isco/C7121,key_435,c265b0f4-ed27-4f8f-be3d-e23886d5650c,Pokrývači,7121
+http://data.europa.eu/esco/isco/C7122,key_436,347b2e60-4677-4c1c-8921-aaba0c3dc229,Podlaháři a obkladači,7122
+http://data.europa.eu/esco/isco/C7123,key_437,3033f9b1-23be-4d2c-9f64-dc3dcdcd1811,Štukatéři a omítkáři,7123
+http://data.europa.eu/esco/isco/C7124,key_438,fc8b5c6b-4a51-4833-818c-7ec64f4605b7,Izolatéři,7124
+http://data.europa.eu/esco/isco/C7125,key_439,4f87043a-24dd-4688-a4d1-9e6bec51b083,Sklenáři,7125
+http://data.europa.eu/esco/isco/C7126,key_440,f33a115b-d720-424d-93ea-16fb783a0d8e,"Instalatéři, potrubáři, stavební zámečníci a klempíři",7126
+http://data.europa.eu/esco/isco/C7127,key_441,b0bf31fd-db57-450b-9555-9acaf68b5a35,Mechanici klimatizací a chladicích zařízení,7127
+http://data.europa.eu/esco/isco/C713,key_442,828b3e96-ec58-4931-a2af-6fd60995c074,"Malíři a pracovníci v příbuzných oborech, pracovníci povrchového čištění budov",713
+http://data.europa.eu/esco/isco/C7131,key_443,c3379a41-ae9d-41be-abe5-bffa67f8c9c2,"Malíři (vč. stavebních lakýrníků a natěračů), tapetáři",7131
+http://data.europa.eu/esco/isco/C7132,key_444,17ba2329-82f5-4efc-b5c1-ad2c83afa36b,Lakýrníci a natěrači (kromě stavebních),7132
+http://data.europa.eu/esco/isco/C7133,key_445,1d327aa0-facb-4ad5-a250-142db1ce1969,"Pracovníci povrchového čištění budov, kominíci",7133
+http://data.europa.eu/esco/isco/C72,key_446,a7907f10-cbf7-46c9-a83f-f9e48c171cef,"Kovodělníci, strojírenští dělníci a pracovníci v příbuzných oborech",72
+http://data.europa.eu/esco/isco/C721,key_447,33a93255-8f99-4dd3-86f7-80fdca0359e4,"Slévači, svářeči a pracovníci v příbuzných oborech",721
+http://data.europa.eu/esco/isco/C7211,key_448,39c7e1fd-7954-41c6-aed1-381001831f0f,"Slévači, formíři a jádraři",7211
+http://data.europa.eu/esco/isco/C7212,key_449,ea73a881-d547-4606-b538-8d44ff9fdef8,"Svářeči, řezači plamenem a páječi",7212
+http://data.europa.eu/esco/isco/C7213,key_450,5c945a20-32f7-47c9-b17e-1cf3266a201c,Pracovníci na zpracování plechu,7213
+http://data.europa.eu/esco/isco/C7214,key_451,7b841144-ad38-4b6e-b9de-886c8ccb935f,Montéři kovových konstrukcí,7214
+http://data.europa.eu/esco/isco/C7215,key_452,ff0a8b44-deae-4834-8323-7a51f59ec677,Montéři lan a zdvihacích zařízení,7215
+http://data.europa.eu/esco/isco/C722,key_453,2fc80806-7f99-4391-b63e-3b184ec0efba,"Kováři, nástrojáři a pracovníci v příbuzných oborech",722
+http://data.europa.eu/esco/isco/C7221,key_454,801f9aae-d12c-4ee6-9856-b3033b24bf91,"Kováři, obsluha kovacích lisů, obsluha bucharů",7221
+http://data.europa.eu/esco/isco/C7222,key_455,224ec7fa-0b2e-4a13-94ca-b289759dca55,Nástrojáři a pracovníci v příbuzných oborech,7222
+http://data.europa.eu/esco/isco/C7223,key_456,d405009b-0607-4339-bf5d-6e88f49ffa17,Seřizovači a obsluha kovoobráběcích strojů,7223
+http://data.europa.eu/esco/isco/C7224,key_457,e206f507-78b1-42fa-9585-62d2a2c0665f,"Brusiči, leštiči a ostřiči nástrojů a kovů",7224
+http://data.europa.eu/esco/isco/C723,key_458,33871e04-9e3e-4548-b206-365bfedbb828,Mechanici a opraváři strojů a zařízení,723
+http://data.europa.eu/esco/isco/C7231,key_459,0ab1c28f-11a0-4b1b-a945-4e6811cd7fca,Mechanici a opraváři motorových vozidel,7231
+http://data.europa.eu/esco/isco/C7232,key_460,ff5ca1c6-a9e4-475c-a2a0-3f21f3ee2adf,Mechanici a opraváři leteckých motorů a zařízení,7232
+http://data.europa.eu/esco/isco/C7233,key_461,161eb858-bcec-4481-a256-97f651443c1d,"Mechanici a opraváři zemědělských, průmyslových a jiných strojů a zařízení",7233
+http://data.europa.eu/esco/isco/C7234,key_462,136a7fea-0aed-46d6-899f-40e80d3d97be,Opraváři jízdních kol a pracovníci v příbuzných oborech,7234
+http://data.europa.eu/esco/isco/C73,key_463,5fa109b9-a5b0-49bd-9021-979d29f15748,Pracovníci v oblasti uměleckých a tradičních řemesel a polygrafie,73
+http://data.europa.eu/esco/isco/C731,key_464,68ad683a-9665-4435-8850-ac2859f3996e,Pracovníci v oblasti uměleckých a tradičních řemesel,731
+http://data.europa.eu/esco/isco/C7311,key_465,6cf1333f-45f7-4991-8c24-064623ab1d7d,"Výrobci, mechanici a opraváři přesných přístrojů a zařízení",7311
+http://data.europa.eu/esco/isco/C7312,key_466,d5fb2bb1-54a3-40d6-a652-ded6e94f9907,"Výrobci a opraváři hudebních nástrojů, ladiči",7312
+http://data.europa.eu/esco/isco/C7313,key_467,f0d92f1c-cffe-4e17-96a4-a513957d5fec,"Klenotníci, zlatníci a šperkaři",7313
+http://data.europa.eu/esco/isco/C7314,key_468,6901fc81-3904-463f-b528-81549c247876,Keramici a pracovníci v příbuzných oborech,7314
+http://data.europa.eu/esco/isco/C7315,key_469,c2e52239-2896-4f07-8ef4-1c73c0adf064,"Skláři, brusiči skla a pracovníci při konečné úpravě skla",7315
+http://data.europa.eu/esco/isco/C7316,key_470,fb144efd-1fba-4c1c-9dda-33248d966cf0,Malíři a rytci skla a keramiky a pracovníci v příbuzných oborech,7316
+http://data.europa.eu/esco/isco/C7317,key_471,47bf9bac-6ce7-4e3c-8dba-30ef1592b5e2,"Řezbáři, košíkáři, kartáčníci a pracovníci v příbuzných oborech",7317
+http://data.europa.eu/esco/isco/C7318,key_472,2fafe7e8-14f6-4c51-acaa-2a58b33b4031,"Řemeslníci pracující s textilem, kůží a příbuznými materiály (tradiční lidová tvorba)",7318
+http://data.europa.eu/esco/isco/C7319,key_473,e28afafc-622f-4f81-b2d5-11ad85e02014,Pracovníci v oblasti uměleckých a tradičních řemesel jinde neuvedení,7319
+http://data.europa.eu/esco/isco/C732,key_474,fa3e4067-e72f-4f15-bf92-d189a8637210,Pracovníci polygrafie,732
+http://data.europa.eu/esco/isco/C7321,key_475,a8c0b976-5dad-4fcc-81c3-498716efe94f,Pracovníci přípravy tisku,7321
+http://data.europa.eu/esco/isco/C7322,key_476,f704e089-c3ad-440d-8e38-c827a7668333,Tiskaři,7322
+http://data.europa.eu/esco/isco/C7323,key_477,c299bf63-9f00-4cd8-8251-77cef8d718f9,Pracovníci konečné úpravy tisku a vazači knih,7323
+http://data.europa.eu/esco/isco/C74,key_478,050cedc0-ad4f-4e53-94d6-56b579e3dd60,Pracovníci v oboru elektroniky a elektrotechniky,74
+http://data.europa.eu/esco/isco/C741,key_479,3bf20ba8-3651-4f69-bc9e-8f275a38fdb7,"Montéři, mechanici a opraváři elektrických zařízení",741
+http://data.europa.eu/esco/isco/C7411,key_480,cefb3aa3-1166-4d0f-b863-7430ebbd7778,Stavební a provozní elektrikáři,7411
+http://data.europa.eu/esco/isco/C7412,key_481,a7278476-2973-4611-a6a3-1a34edaac301,Elektromechanici a seřizovači,7412
+http://data.europa.eu/esco/isco/C7413,key_482,d5ebd8cf-8471-4b41-b02c-45b3a1e74968,Montéři a opraváři elektrických vedení,7413
+http://data.europa.eu/esco/isco/C742,key_483,dbe8e5b4-1345-4b98-9460-15d574add0e2,Mechanici a opraváři elektronických přístrojů a komunikačních technologií,742
+http://data.europa.eu/esco/isco/C7421,key_484,eaab1f6a-4317-485d-8206-df4b0d59c87b,Mechanici a opraváři elektronických přístrojů,7421
+http://data.europa.eu/esco/isco/C7422,key_485,b022a2a7-b72e-4037-bbcf-53a2bae07b93,Mechanici a opraváři informačních a komunikačních technologií,7422
+http://data.europa.eu/esco/isco/C75,key_486,880fc1c4-abf6-46c5-a2d5-b9100591a159,"Zpracovatelé potravin, dřeva, textilu a pracovníci v příbuzných oborech",75
+http://data.europa.eu/esco/isco/C751,key_487,ef560bc6-4c80-4dcc-8bca-c9509d5e6fe5,Výrobci a zpracovatelé potravin a pracovníci v příbuzných oborech,751
+http://data.europa.eu/esco/isco/C7511,key_488,e4db9d16-4803-40df-8c93-807779e619d6,"Zpracovatelé masa, ryb a pracovníci v příbuzných oborech",7511
+http://data.europa.eu/esco/isco/C7512,key_489,f9ba4bbe-9a6a-445e-8e06-1a481f93dc6e,"Pekaři, cukráři a výrobci cukrovinek (kromě šéfcukrářů)",7512
+http://data.europa.eu/esco/isco/C7513,key_490,0935c489-cf70-4db1-ac1e-bc251ffa0aa2,Výrobci mléčných produktů,7513
+http://data.europa.eu/esco/isco/C7514,key_491,b6aa742b-ac67-412d-966e-06ade85e8aa9,"Konzerváři ovoce, zeleniny a příbuzných produktů",7514
+http://data.europa.eu/esco/isco/C7515,key_492,28cccd5e-f1f2-4268-af1b-3affa72508c2,"Ochutnávači, degustátoři a kontroloři jakosti potravin a nápojů",7515
+http://data.europa.eu/esco/isco/C7516,key_493,04b26a28-8df0-40a3-9b09-61d813246646,Zpracovatelé tabáku a výrobci tabákových výrobků,7516
+http://data.europa.eu/esco/isco/C752,key_494,13771544-e627-4d02-9fb7-acc8818adf3a,"Zpracovatelé dřeva, truhláři (kromě stavebních) a pracovníci v příbuzných oborech",752
+http://data.europa.eu/esco/isco/C7521,key_495,eeecb7f9-314c-45da-a595-7dc1c0f7c146,Zpracovatelé dřeva,7521
+http://data.europa.eu/esco/isco/C7522,key_496,ba84c617-4167-456b-ba90-5ed1a23c2b74,Truhláři (kromě stavebních) a pracovníci v příbuzných oborech,7522
+http://data.europa.eu/esco/isco/C7523,key_497,3b7db501-a2a2-4a05-9098-3039ff1fe846,Seřizovači a obsluha dřevoobráběcích strojů,7523
+http://data.europa.eu/esco/isco/C753,key_498,6d57a507-c3e3-489c-94f7-96b6bf118560,"Výrobci oděvů, výrobků z kůží a kožešin a pracovníci v příbuzných oborech",753
+http://data.europa.eu/esco/isco/C7531,key_499,7db2e423-9da2-4704-8e9d-4e498869ac9d,"Krejčí, kožešníci a kloboučníci",7531
+http://data.europa.eu/esco/isco/C7532,key_500,4bdb03bc-b9d4-41c5-b7c8-c7c4d28e132c,"Modeláři oděvů, střihači a pracovníci v příbuzných oborech",7532
+http://data.europa.eu/esco/isco/C7533,key_501,0b244520-4b30-423f-8e9f-e391cdafdc78,"Šičky, vyšívači a pracovníci v příbuzných oborech",7533
+http://data.europa.eu/esco/isco/C7534,key_502,8d4117bf-c064-4770-b239-f36f14b5bb8f,Čalouníci a pracovníci v příbuzných oborech,7534
+http://data.europa.eu/esco/isco/C7535,key_503,80bdb8a9-2368-4460-8030-d7e9a4203e2c,"Zpracovatelé kůže, koželuhové a kožišníci",7535
+http://data.europa.eu/esco/isco/C7536,key_504,ad18380e-d148-44f5-89ae-491f1aea615e,Obuvníci a pracovníci v příbuzných oborech,7536
+http://data.europa.eu/esco/isco/C754,key_505,36762e91-de09-4761-b02d-a98444e79d57,Ostatní řemeslní pracovníci a pracovníci v příbuzných oborech,754
+http://data.europa.eu/esco/isco/C7541,key_506,b8edc367-acd0-4033-bce1-512b27d7567b,Potápěči,7541
+http://data.europa.eu/esco/isco/C7542,key_507,eadfbd15-8ff3-4571-b1eb-e9715ce65ca5,Střelmistři,7542
+http://data.europa.eu/esco/isco/C7543,key_508,0cc2284a-b2c6-4bd4-b851-46137d5a8526,Kvalitáři a testovači výrobků (kromě potravin a nápojů),7543
+http://data.europa.eu/esco/isco/C7544,key_509,229699b9-cee6-4228-8c01-a4d3e920202f,Hubitelé škůdců,7544
+http://data.europa.eu/esco/isco/C7549,key_510,3c2be97b-9b63-42ba-8b8c-f0d9aa7b3c64,Řemeslní a příbuzní pracovníci jinde neuvedení,7549
+http://data.europa.eu/esco/isco/C8,key_511,8a8dd937-3f7d-4298-8f1d-297bcfd15f55,"Obsluha strojů a zařízení, montéři",8
+http://data.europa.eu/esco/isco/C81,key_512,e3a6fd0e-378f-460f-9835-0d91eb4e89ee,Obsluha stacionárních strojů a zařízení,81
+http://data.europa.eu/esco/isco/C811,key_513,ed74551b-2a0d-495d-8db5-819f241426da,Obsluha zařízení na těžbu a zpracování nerostných surovin,811
+http://data.europa.eu/esco/isco/C8111,key_514,43a02ff7-3ac6-4741-8dad-8c244d795d4f,Obsluha důlních zařízení (včetně horníků),8111
+http://data.europa.eu/esco/isco/C8112,key_515,a0aa6b6d-1913-41e2-aa75-5d1e0bb5e3b8,Obsluha zařízení na úpravu rudných a nerudných surovin,8112
+http://data.europa.eu/esco/isco/C8113,key_516,f4bb1924-08f1-4cc2-ad62-8db24e5eb32b,Vrtači při ropných nebo plynových vrtech a pracovníci v příbuzných oborech,8113
+http://data.europa.eu/esco/isco/C8114,key_517,271d5c89-770c-4432-9203-caec1c937c7a,"Obsluha strojů na výrobu výrobků z cementu, kamene a ostatních nerostů",8114
+http://data.europa.eu/esco/isco/C812,key_518,3b524df1-3d0a-4a91-b7b6-1fe5a4b2a649,Obsluha zařízení na zpracování a povrchovou úpravu kovů,812
+http://data.europa.eu/esco/isco/C8121,key_519,ed2c1bd0-14d7-4990-930d-4aede05a5135,Obsluha zařízení na zpracování kovů,8121
+http://data.europa.eu/esco/isco/C8122,key_520,ffd4007a-eaa9-48b9-870c-ee13b99a703c,Obsluha zařízení na povrchovou úpravu kovů,8122
+http://data.europa.eu/esco/isco/C813,key_521,af0b60aa-6406-4504-ad12-8c21dae3e6e4,Obsluha strojů a zařízení pro chemickou výrobu a na výrobu fotografických materiálů,813
+http://data.europa.eu/esco/isco/C8131,key_522,befdbc27-b823-48a5-b70a-d4516f51d6bb,Obsluha strojů a zařízení pro chemickou výrobu,8131
+http://data.europa.eu/esco/isco/C8132,key_523,e0b5c3db-980c-4b30-9cf7-a6a08bfb9de6,Obsluha strojů a zařízení na výrobu a zpracování fotografických materiálů,8132
+http://data.europa.eu/esco/isco/C814,key_524,265e0bb2-ed27-43e1-86f7-107604cfdabf,"Obsluha strojů na výrobu a zpracování výrobků z pryže, plastu a papíru",814
+http://data.europa.eu/esco/isco/C8141,key_525,21721868-730a-455b-a45d-5c651d7b1afa,Obsluha strojů na výrobu a zpracování výrobků z pryže,8141
+http://data.europa.eu/esco/isco/C8142,key_526,3d9959d2-9df3-4446-9694-11b18398b8a8,Obsluha strojů na výrobu a zpracování výrobků z plastu,8142
+http://data.europa.eu/esco/isco/C8143,key_527,0f1c1eb6-e993-40ff-8366-14b0fb4a2e13,Obsluha strojů na výrobu a zpracování výrobků z papíru,8143
+http://data.europa.eu/esco/isco/C815,key_528,7d1cca3d-ae5c-4c30-ad6b-dcb13c0b7456,"Obsluha strojů na úpravu a výrobu textilních, kožešinových a kožených výrobků",815
+http://data.europa.eu/esco/isco/C8151,key_529,eb755d6d-f9b5-4beb-a5c0-8df535bdf94e,"Obsluha strojů na úpravu vláken, dopřádání a navíjení příze a nití",8151
+http://data.europa.eu/esco/isco/C8152,key_530,39d8ab69-1b48-41c7-95a3-09375178849d,Obsluha tkacích a pletacích strojů,8152
+http://data.europa.eu/esco/isco/C8153,key_531,8a1ce2a7-fc16-4cd4-8e6d-154dd0a44e58,Obsluha šicích a vyšívacích strojů,8153
+http://data.europa.eu/esco/isco/C8154,key_532,a716f6d0-ac40-4bba-8a12-a56eeb1d28ce,"Obsluha strojů na bělení, barvení a čištění tkanin",8154
+http://data.europa.eu/esco/isco/C8155,key_533,ee24927a-ee03-46e6-95b6-fc9f3945f4f0,Obsluha strojů na úpravu kožešin a kůží,8155
+http://data.europa.eu/esco/isco/C8156,key_534,81fb28b7-2501-4f79-9022-8ada87124908,Obsluha strojů na výrobu obuvi a příbuzných výrobků,8156
+http://data.europa.eu/esco/isco/C8157,key_535,095382c9-5bc2-463b-b96e-1d3d404f8c7a,Obsluha strojů v prádelnách a čistírnách,8157
+http://data.europa.eu/esco/isco/C8159,key_536,9981d2ac-d4a0-4e2c-b63a-e8a1da0ce7c1,"Obsluha strojů na úpravu a výrobu textilních, kožešinových a kožených výrobků jinde neuvedená",8159
+http://data.europa.eu/esco/isco/C816,key_537,7bc39e31-be0f-4a95-b90d-287c6fa6fd6e,Obsluha strojů na výrobu potravin a příbuzných výrobků,816
+http://data.europa.eu/esco/isco/C8160,key_538,2e0b206a-529b-48ec-b1f0-42354d14b73d,Obsluha strojů na výrobu potravin a příbuzných výrobků,8160
+http://data.europa.eu/esco/isco/C817,key_539,c9db6c26-1cd8-465b-8d59-b4bc65e4865f,Obsluha strojů a zařízení na zpracování dřeva a výrobu papíru,817
+http://data.europa.eu/esco/isco/C8171,key_540,e4a46a6c-94c5-43a0-a292-c7fd1b071d6c,Obsluha strojů a zařízení na výrobu a zpracování papíru,8171
+http://data.europa.eu/esco/isco/C8172,key_541,6256341c-dffc-4b56-825e-8db28913bce9,Obsluha strojů a zařízení na zpracování dřeva,8172
+http://data.europa.eu/esco/isco/C818,key_542,461bc60a-7451-4a9b-89d7-0ad28154c0a8,Ostatní obsluha stacionárních strojů a zařízení,818
+http://data.europa.eu/esco/isco/C8181,key_543,29845149-fc9b-4b9f-a478-1d76754ee31b,"Obsluha strojů a zařízení na výrobu skla, keramiky a příbuzných výrobků",8181
+http://data.europa.eu/esco/isco/C8182,key_544,8f5174a5-207a-4562-bea8-39b8cf448d26,"Obsluha parních turbín, kotlů a příbuzných zařízení",8182
+http://data.europa.eu/esco/isco/C8183,key_545,5312c58d-b622-4e86-9373-9a584e5666a8,"Obsluha strojů na balení, plnění a etiketování",8183
+http://data.europa.eu/esco/isco/C8189,key_546,7d6ef8a6-2522-487f-9a63-b1b10f7cf195,Obsluha stacionárních strojů a zařízení jinde neuvedená,8189
+http://data.europa.eu/esco/isco/C82,key_547,986087f8-c777-4398-8501-ebf35b3780cd,Montážní dělníci,82
+http://data.europa.eu/esco/isco/C821,key_548,dd82d36a-fe2c-4c3e-b22b-15d42bc73458,Montážní dělníci,821
+http://data.europa.eu/esco/isco/C8211,key_549,75f83cb8-a4b2-4c15-b250-0566f6170575,Montážní dělníci mechanických zařízení,8211
+http://data.europa.eu/esco/isco/C8212,key_550,26dfe8ee-648c-4e42-bbc9-3056c85a442f,Montážní dělníci elektrických a elektronických zařízení,8212
+http://data.europa.eu/esco/isco/C8219,key_551,cf9b7880-a9be-454d-bd49-4a8f3f638a73,Montážní dělníci jinde neuvedení,8219
+http://data.europa.eu/esco/isco/C83,key_552,fa7e34c3-5206-4038-8d30-e15a4a26fea4,Řidiči a obsluha pojízdných zařízení,83
+http://data.europa.eu/esco/isco/C831,key_553,2d4496c3-b27b-4a3e-9bf3-d9641d80d1a0,Strojvedoucí a pracovníci v příbuzných oborech,831
+http://data.europa.eu/esco/isco/C8311,key_554,5c841f93-15c2-49aa-ab0e-5c1248e76464,Strojvedoucí a řidiči kolejových motorových vozíků,8311
+http://data.europa.eu/esco/isco/C8312,key_555,afa68d7f-c0bb-46fb-b6dc-02ec06437171,"Signalisti, brzdaři, výhybkáři, posunovači",8312
+http://data.europa.eu/esco/isco/C832,key_556,b9a2d2e6-f5e2-47e9-8593-e6a0c516b8a3,Řidiči motocyklů a automobilů (kromě nákladních),832
+http://data.europa.eu/esco/isco/C8321,key_557,8c30b7b0-22cb-49ca-af63-4b7e0fc7cd67,Řidiči motocyklů,8321
+http://data.europa.eu/esco/isco/C8322,key_558,e194010a-49e4-4c06-bdb2-a88495dcf542,"Řidiči osobních a malých dodávkových automobilů, taxikáři",8322
+http://data.europa.eu/esco/isco/C833,key_559,3bbfe43b-2197-491f-beae-7d1dc428eebd,"Řidiči nákladních automobilů, autobusů a tramvají",833
+http://data.europa.eu/esco/isco/C8331,key_560,c9860f6a-c8d8-42fc-aa79-43378fadc2f1,"Řidiči autobusů, trolejbusů a tramvají",8331
+http://data.europa.eu/esco/isco/C8332,key_561,6eff341a-b59e-4b4e-ac89-44d352276415,"Řidiči nákladních automobilů, tahačů a speciálních vozidel",8332
+http://data.europa.eu/esco/isco/C834,key_562,cdb6a1b5-118b-4719-b0e8-09e69e415765,Obsluha pojízdných zařízení,834
+http://data.europa.eu/esco/isco/C8341,key_563,c0562e19-d37f-4bd1-868c-35ce9f7b3365,Řidiči a obsluha zemědělských a lesních strojů,8341
+http://data.europa.eu/esco/isco/C8342,key_564,23fc2bf8-477f-495c-b118-da665b8c9809,Obsluha zemních a příbuzných strojů,8342
+http://data.europa.eu/esco/isco/C8343,key_565,81d5d8be-5acc-4fdc-867f-b75fde9bd0fd,"Obsluha jeřábů, zdvihacích a podobných manipulačních zařízení",8343
+http://data.europa.eu/esco/isco/C8344,key_566,de81b3f9-4d04-4987-9052-703780a49d0f,Obsluha vysokozdvižných vozíků,8344
+http://data.europa.eu/esco/isco/C835,key_567,73ffcb4f-9af6-4504-a074-dac887e6e883,Pracovníci lodní posádky,835
+http://data.europa.eu/esco/isco/C8350,key_568,b5d6c8d0-b00b-41c5-90cc-1540eeb2712d,Pracovníci lodní posádky,8350
+http://data.europa.eu/esco/isco/C9,key_569,ad7a93a3-fdd1-433b-8127-cc9b7a4eb21c,Pomocní a nekvalifikovaní pracovníci,9
+http://data.europa.eu/esco/isco/C91,key_570,8382f003-a9a6-4fb1-9418-3a2cc027faed,Uklízeči a pomocníci,91
+http://data.europa.eu/esco/isco/C911,key_571,3081453f-987b-4219-885c-2d6e831ee840,"Uklízeči a pomocníci v domácnostech, hotelích a kancelářích",911
+http://data.europa.eu/esco/isco/C9111,key_572,ddd029e5-596d-45a8-aedb-1afc8f17dff7,Uklízeči a pomocníci v domácnostech (kromě hospodyní),9111
+http://data.europa.eu/esco/isco/C9112,key_573,9664b581-1cbb-43e8-8c75-9bcebd73dd09,"Uklízeči a pomocníci v kancelářích, hotelích a jiných zařízeních",9112
+http://data.europa.eu/esco/isco/C912,key_574,53a9c9a4-9d4c-4d53-a4a2-8635424befd8,"Pracovníci pro ruční mytí vozidel, oken, praní prádla a příbuzní pracovníci (kromě uklízečů a pomocníků v domácnostech, hotelích a kancelářích)",912
+http://data.europa.eu/esco/isco/C9121,key_575,81cbd75b-46d2-40ab-a361-a9a9ed6bb8b1,Pracovníci pro ruční praní a žehlení (kromě obsluhy strojů v prádelnách a čistírnách),9121
+http://data.europa.eu/esco/isco/C9122,key_576,4d922734-0b12-4ebf-b93b-1ec5af3a3dcd,Pracovníci pro mytí vozidel,9122
+http://data.europa.eu/esco/isco/C9123,key_577,2483dca5-9f36-4932-a817-b4dc9197c85e,Pracovníci pro mytí oken,9123
+http://data.europa.eu/esco/isco/C9129,key_578,3cea5e66-cf01-45fe-b741-56f0b34e33ec,Pracovníci úklidu jinde neuvedení,9129
+http://data.europa.eu/esco/isco/C92,key_579,178a7e33-4f15-449a-9000-2c57fb90f531,"Pomocní pracovníci v zemědělství, lesnictví a rybářství",92
+http://data.europa.eu/esco/isco/C921,key_580,40115775-5688-4c6d-8895-c4daf0403b0f,"Pomocní pracovníci v zemědělství, lesnictví a rybářství",921
+http://data.europa.eu/esco/isco/C9211,key_581,eceacd14-e6e2-4ff6-8458-aa7169fb77eb,Pomocní pracovníci v rostlinné výrobě,9211
+http://data.europa.eu/esco/isco/C9212,key_582,161cfb22-418a-4611-91f6-2eb8d6cb320d,Pomocní pracovníci v živočišné výrobě,9212
+http://data.europa.eu/esco/isco/C9213,key_583,c85055ff-b338-442c-95f9-a77204ed3ba8,Pomocní pracovníci ve smíšené hospodářství,9213
+http://data.europa.eu/esco/isco/C9214,key_584,ce1f131d-1417-4989-80fa-bc40a6ff79fd,Pomocní pracovníci v zahradnictví,9214
+http://data.europa.eu/esco/isco/C9215,key_585,fe3c3fbd-eef0-4da2-99cb-aa7b6a0474b4,Pomocní pracovníci v lesnictví,9215
+http://data.europa.eu/esco/isco/C9216,key_586,970f5ce8-52d3-49bd-8da7-59df85efbc2f,Pomocní pracovníci v rybářství,9216
+http://data.europa.eu/esco/isco/C93,key_587,ada0a93c-d0db-4459-a4e2-2cd34a5fc871,"Pomocní pracovníci v oblasti těžby, stavebnictví, výroby, dopravy a v příbuzných oborech",93
+http://data.europa.eu/esco/isco/C931,key_588,9c62463d-ddfa-4890-a273-7d0fbdd87937,Pomocní pracovníci v oblasti těžby a stavebnictví,931
+http://data.europa.eu/esco/isco/C9311,key_589,d182fadb-eaa2-407b-a39c-196be1382ea8,Pomocní pracovníci v oblasti těžby,9311
+http://data.europa.eu/esco/isco/C9312,key_590,82e61964-3bb1-42e0-ab5c-c6931a9b2972,Dělníci v oblasti inženýrských staveb,9312
+http://data.europa.eu/esco/isco/C9313,key_591,fcd9eaae-70c1-478a-b010-2c355e47446a,Dělníci v oblasti výstavby budov,9313
+http://data.europa.eu/esco/isco/C932,key_592,f1e78693-c642-4891-a632-fda1761cce43,Pomocní pracovníci ve výrobě,932
+http://data.europa.eu/esco/isco/C9321,key_593,5d2f0c2a-f591-48b8-8295-f4912a070a3c,Ruční baliči,9321
+http://data.europa.eu/esco/isco/C9329,key_594,5dee89ce-ace8-42ff-b26e-c7999199b4c8,Pomocní pracovníci ve výrobě jinde neuvedení,9329
+http://data.europa.eu/esco/isco/C933,key_595,9097f2c3-a209-46d3-a501-6d5dd0a1ca33,Pomocní pracovníci v dopravě a skladování,933
+http://data.europa.eu/esco/isco/C9331,key_596,b92c2322-06e1-4bf9-b69c-85eaaebc8b77,Obsluha ručních a pedálových vozidel,9331
+http://data.europa.eu/esco/isco/C9332,key_597,003bb370-9ea0-4c59-90e2-9a111d21440f,Kočí,9332
+http://data.europa.eu/esco/isco/C9333,key_598,210972e0-fc58-4422-843c-da96a5a867e8,Pomocní manipulační pracovníci,9333
+http://data.europa.eu/esco/isco/C9334,key_599,2bbe6d8e-0f81-4ea1-9f83-a82c12852012,Doplňovači zboží,9334
+http://data.europa.eu/esco/isco/C94,key_600,d8fb5ea7-a4b3-4cb5-b19b-743255a0440b,Pomocní pracovníci při přípravě jídla,94
+http://data.europa.eu/esco/isco/C941,key_601,5ba23ebb-c11f-4d17-ba25-c8af0d2e2032,Pomocní pracovníci při přípravě jídla,941
+http://data.europa.eu/esco/isco/C9411,key_602,1c969a91-5a20-4574-be74-8f513807647c,Pracovníci pro přípravu rychlého občerstvení,9411
+http://data.europa.eu/esco/isco/C9412,key_603,49acc3d5-1577-4c85-a3e0-996c476f7459,Pomocníci v kuchyni,9412
+http://data.europa.eu/esco/isco/C95,key_604,7cea6ce1-f866-4612-9d8c-c9e0280c3a6d,Pracovníci pouličního prodeje a služeb a pracovníci v příbuzných oborech,95
+http://data.europa.eu/esco/isco/C951,key_605,7946a40d-a5be-42ae-b93b-fd3f56a5becf,Pracovníci pouličních služeb a pracovníci v příbuzných oborech,951
+http://data.europa.eu/esco/isco/C9510,key_606,debedb95-29df-456b-aa96-9c3bfe73c299,Pracovníci pouličních služeb a pracovníci v příbuzných oborech,9510
+http://data.europa.eu/esco/isco/C952,key_607,d0838c69-5aa2-48ab-a293-25274307cbde,Pouliční prodejci (kromě potravin),952
+http://data.europa.eu/esco/isco/C9520,key_608,cc295cf7-5ba2-4ca6-95af-747a7daeead6,Pouliční prodejci (kromě potravin),9520
+http://data.europa.eu/esco/isco/C96,key_609,220779f4-9ca6-4cc9-9c46-ef1ca4535fed,Pracovníci s odpady a jiní nekvalifikovaní pracovníci,96
+http://data.europa.eu/esco/isco/C961,key_610,fe5b3a2e-879c-440d-bff2-addfc78b4b08,Pracovníci s odpady,961
+http://data.europa.eu/esco/isco/C9611,key_611,fbf76abd-ee6b-4077-b009-c16e9ef2f780,Pracovníci odvozu a recyklace odpadů,9611
+http://data.europa.eu/esco/isco/C9612,key_612,7fa6a30a-1aac-4c3c-aa40-057c7bbd5fc0,Třídiči odpadů,9612
+http://data.europa.eu/esco/isco/C9613,key_613,3267fc8c-9fcc-4dde-b4e0-45aefdf2aa45,Uklízeči veřejných prostranství,9613
+http://data.europa.eu/esco/isco/C962,key_614,0deb6ba9-9075-4fcd-8b02-666f9a9591dd,Ostatní pomocní a nekvalifikovaní pracovníci,962
+http://data.europa.eu/esco/isco/C9621,key_615,abe026c0-f0b6-457f-89a6-36a77597f6ef,"Kurýři, doručovatelé balíků a nosiči zavazadel",9621
+http://data.europa.eu/esco/isco/C9622,key_616,6d084ddc-f67f-44bc-82cb-0fa2e83e88f9,Pomocní pracovníci údržby budov,9622
+http://data.europa.eu/esco/isco/C9623,key_617,84e04144-9d28-4698-99b7-a48d2db0ebf9,Pracovníci provádějící odečet měřidel a výběrčí peněz z prodejních automatů,9623
+http://data.europa.eu/esco/isco/C9624,key_618,d152e204-5c15-4747-a4d7-d64302b03813,Nosiči vody a sběrači palivového dříví,9624
+http://data.europa.eu/esco/isco/C9629,key_619,4300eaba-9ab2-4312-9efe-e8113c001814,Pomocní a nekvalifikovaní pracovníci jinde neuvedení,9629

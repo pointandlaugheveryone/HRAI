@@ -1,8 +1,0 @@
-__pycache__/
-ner-env/
-DATA/
-*.spacy
-
-patterns.jsonl
-skill_db_relax_20.json
-token_dist.json
