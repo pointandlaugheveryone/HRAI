@@ -1,20 +1,15 @@
+import os
+
 from openai import AzureOpenAI
-import azure.keyvault.secrets as azk
-from azure.identity import DefaultAzureCredential
-from data_models.Document import Labels
-from data_models.Document import Label, Document
+from models.Document import Labels
+from models.Document import Label, Document
+from dotenv import load_dotenv
 
 
-def get_key(keyname):
-    vault_uri = 'https://keyvault-labeling.vault.azure.net/'
-    client = azk.SecretClient(vault_uri, DefaultAzureCredential())
-    secret = client.get_secret(keyname)
-    key = secret.value
-    return key
-
+load_dotenv()
 
 async def send_request(contents: str):
-    key = get_key('openai-key')
+    key = os.getetv('AZ_KEY')
     endpoint = 'https://labeling-llm-0.openai.azure.com/openai/deployments/gpt-4.1-nano/chat/completions?api-version=2025-01-01-preview'
     client = AzureOpenAI(
     azure_endpoint = endpoint,

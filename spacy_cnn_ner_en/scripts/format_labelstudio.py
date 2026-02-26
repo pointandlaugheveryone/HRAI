@@ -1,7 +1,7 @@
 import json
 from data_models.LabelStudio import *
 
-with open('DATA/cleaned_resumes.json','r') as j:
+with open('data/resumes_en.json','r') as j:
     labeled_resumes = json.loads(j.read())
 
 documents = []

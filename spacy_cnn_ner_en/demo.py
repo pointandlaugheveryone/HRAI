@@ -10,26 +10,24 @@ from spacy.tokens import DocBin
 app = FastAPI()
 nlp = None
 
-@app.on_event("startup")
+@app.on_event('startup')
 def load_local_model():
     global nlp
-    nlp = spacy.load(str("outputs/model-best"))
-    if "entity_ruler" not in nlp.pipe_names:
-        nlp.add_pipe("entity_ruler").from_disk("ngrams/patterns.jsonl")
+    nlp = spacy.load(str(f'{LOAD_DIR}spacy_outputs/model-best'))
+    if 'entity_ruler' not in nlp.pipe_names:
+        nlp.add_pipe("entity_ruler").from_disk(f'{LOAD_DIR}ngrams/patterns.jsonl')
 
 
 def render_entities_html(text: str, ents: List[Dict[str, Any]]):
-    colors = {"Hard Skill": "#a8d1d1", "Soft Skill": "#fd8a8a"}
     pieces = []
     last = 0
     ents_sorted = sorted(ents, key=lambda ent: ent["start"]) # sort to match text
     for e in ents_sorted:
         start, end, label = e["start"], e["end"], e["label"]
 
-        # highlight individually
+        # label does not really matter due to incapility to properly differentiate some entities of this model
         pieces.append(text[last:start])
-        color = colors.get(label, "#ffd966")
-        pieces.append(f'<mark style="background:{color};padding:0 2px;border-radius:3px">{text[start:end]}</mark>')
+        pieces.append(f'<mark style="background:"#ffd966";padding:0 2px;border-radius:3px">{text[start:end]}</mark>')
         last = end
 
     pieces.append(text[last:])
@@ -47,7 +45,7 @@ def make_skill_lists(doc): # to display all extracted skills
             hard.append(e.text)
 
     soft_str = "<h3>Soft skills: </h3>" + (", ".join(soft) if soft else "")
-    hard_str = "<h3>Hard skills: </h3>" + (", ".join(hard) if hard else "")
+    hard_str = "<h3>Specific skills: </h3>" + (", ".join(hard) if hard else "")
     return {"soft": soft_str, "hard": hard_str}
 
 
