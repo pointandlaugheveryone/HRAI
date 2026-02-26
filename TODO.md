@@ -1,3 +1,4 @@
+[ ] fix dataset paths
 [ ] recreate vector faiss index
     [ ] with deduplicated skill dataset
     [ ] all.index for ngram lookup
