@@ -27,10 +27,10 @@ def process_text(query: RequestModel):
     nlp = spacy.load(query.request_nlp_model)
 
     if 'entity_ruler' not in nlp.pipe_names:
-        ruler = nlp.add_pipe("entity_ruler").from_disk('patterns.jsonl') # type: ignore 
+        ruler = nlp.add_pipe("entity_ruler").from_disk('patterns.jsonl') # type: ignore
 
     response_body = []
-    input = (text for text in query.docs)
-    for input_doc in nlp.pipe(input):
-        response_body.append(process_output(input_doc))
+    doc = (text for text in query.docs)
+    for d in nlp.pipe(doc):
+        response_body.append(process_output(d))
     return {"result": response_body}

@@ -1,7 +1,7 @@
 import json, spacy
+import os
 
-
-with open('skill_db_relax_20.json', 'r') as f:
+with open(os.getcwd()+'data/skill_db_relax_20.json', 'r') as f:
     skills = list(json.loads(f.read()).values())
 
 nlp = spacy.load('en_core_web_lg')
@@ -26,4 +26,4 @@ for s in skills:
         })
     
 ruler.add_patterns(patterns)
-ruler.to_disk("patterns.jsonl")
+ruler.to_disk(os.getcwd()+ 'data/patterns.jsonl')

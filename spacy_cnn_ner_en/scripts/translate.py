@@ -1,63 +1,46 @@
+import json
+
 import requests, uuid, time, os
-from azure.identity import DefaultAzureCredential
-import azure.keyvault.secrets as azk
 import asyncio
-from uuid import uuid4
+
+from srsly import json_dumps
 
 
-def get_key(keyname: str):
-    vault_name = 'CVbutbetter'
-    vault_uri = f'https://{vault_name}.vault.azure.net'
-    client = azk.SecretClient(vault_uri, DefaultAzureCredential())
-    secret = client.get_secret(keyname)
-    key = secret.value
-    return key
-
-
-def parse_files():
-    dir_path = f'{os.getcwd()}/DATA/data_en'
-    texts_en = []
-    filenames = []
-    for filename in os.listdir(dir_path):
-        filepath = os.path.join(dir_path, filename)
-        with open(filepath, 'r', encoding='utf-8') as file:
-            filenames.append(file.name)
-            texts_en.append(file.read())
-    return texts_en, filenames
-
-
-async def azure_translate(text:str,filename_id:str):
-    resource_key = get_key('translationKey')
+async def azure_translate(texts, lang_from, lang_to):
+    resource_key = os.getenv('TRANSLATE_KEY')
     resource_loc = 'germanywestcentral' # resource 
     endpoint = 'https://api.cognitive.microsofttranslator.com'
     path = '/translate?api-version=3.0'
-    params = '&from=en&to=cs'
-    constructed_url = endpoint + path + params
+    params = f'&from={lang_from}&to={lang_to}'
+    url = endpoint + path + params
     headers = {
         'Ocp-Apim-Subscription-Key': resource_key,
         'Ocp-Apim-Subscription-Region': resource_loc,
         'Content-type': 'application/json',
         'X-ClientTraceId': str(uuid.uuid4())
     }
-    body = [{ 'text' : text }]
-    request = requests.post(constructed_url, headers=headers, json=body)
 
-    if request.status_code != 200:
-        print(f"Error: {request.status_code}, {filename_id}.txt, {request.text}")
+    results = []
+    for text in texts:
+        body = [{ 'text' : text }]
+        request = requests.post(url, headers=headers, json=body)
 
-    
-    response = request.json()   
-    with open(f'{os.getcwd()}/data_cs/{filename_id}.txt','w') as newf:
-        newf.write(response[0]["translations"][0]["text"])
-    return response[0]["translations"][0]["text"]
+        if request.status_code != 200:
+            print(f"Error: {request.status_code}, {request.text}")
+
+        response = request.json()[0]["translations"][0]["text"]
+        results.append(response)
+
+    return results
     
 
 async def main():
-    with open('m.txt','r') as f:
-        t = f.read()
-    en = await azure_translate(t,'m')
-    print(en)
+    with open('data/resumes_en.json', 'r') as r:
+        data = json.loads(r.read())
+    en = await azure_translate(data, 'en', 'cs')
 
+    with open('data/resumes_cs.json', 'w') as w:
+        w.write(json_dumps(en))
 
 asyncio.run(main())
  

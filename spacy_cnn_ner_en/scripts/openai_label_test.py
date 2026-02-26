@@ -1,10 +1,8 @@
 import os
 
 from openai import AzureOpenAI
-from models.Document import Labels
-from models.Document import Label, Document
 from dotenv import load_dotenv
-
+from spacy_cnn_ner_en.models import Labels, Document, Label
 
 load_dotenv()
 
@@ -41,7 +39,7 @@ async def send_request(contents: str):
     )
     
     message = completion.choices[0].message
-    if (message.refusal):
+    if message.refusal:
         print(f'error in request:\n{message.refusal}\n\n{message}')
         print(contents)
         return 0
@@ -51,7 +49,6 @@ async def send_request(contents: str):
 
 
 def format_entities(doc_contents:str,labels_list:list,doc_id:int=0):
-    doc = doc_contents
     entities = labels_list
     labeled_ents = []
     for entity in entities:
